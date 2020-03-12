@@ -1,0 +1,12 @@
+author: Flibbles
+core-version: >=5.1.14
+created: 20200131021148900
+dependents: 
+description: Relink - flexibility when relinking renamed tiddlers
+list: readme configuration
+modified: 20200312023435229
+plugin-type: plugin
+source: https://github.com/flibbles/tw5-relink
+title: $:/plugins/flibbles/relink
+type: application/json
+version: 1.6.0
