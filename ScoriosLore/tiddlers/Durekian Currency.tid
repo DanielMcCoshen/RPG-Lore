@@ -1,0 +1,55 @@
+created: 20210413211441424
+creator: admin
+modified: 20210414231127789
+modifier: admin
+tags: World History
+title: Durekian Currency
+type: text/vnd.tiddlywiki
+
+!History
+The [[Durekian|The Kingdom of Durek]] system of currency was created during the [[Age of War|The Age of War]]. When [[King Karol]] unified [[Edion|The Realm of Edion]] under his rule, the system of currency that was used in Durek at the time was chosen to become standard across the realm. 
+
+!Denominations
+The value of a coin is the value of the material that it is minted from. It's possible to mint any of these denominations from any metal, but the size of coin required in many cases is impractical, so some standard variations exist.
+
+!!The Foont, or Pound
+The Foont, or colloquially the pound, is the largest denomination of coin. The value of a foont is one pound of silver. Foont coins are rare, as not only are they extremely valuable, they are rather unweildy to store and use as tender. Foont coins are most often found as a silver coin roughly half a centimetre thick, and ten centemetres across, but can also be found as smaller gold coins roughly seven centemetres across.
+
+The Foont gets its formal name from the Old Durekian word for 'pound'. 
+
+!!The Ocel, or Silver
+The Ocel, sometimes colloquially refered to as the Silver, is a denomination of coin which is 1/240th the value of a Foont. The Ocel is almost exclusively found as a silver coin two centemetres across. It is standardized as the cost of a donkey, and gets its name from the old Durekian for for Donkey.
+
+!!The Zolot, Golden Ocel, or Gold
+The Zolot, also colloquially refered to as the golden Ocel, or just as the Gold, is a coin the same weight as the Ocel, but struck from gold instead of silver. It is slightly smaller in diamiter than the Ocel, and has a value of 20 Ocels.
+
+!!The Velik
+The Velik is a rare denomination of coin, equal to 80 Ocels, or one third of a Foont. It is a gold coin four centimetres across. The Velik was first introduced during the reign of [[King Lyrin]]. It wasn't a widely used denomination, and stopped being minted for around a thousand years. It was introduced again during the reign of [[King Ellisar]], and has barely held on. It is more often used as a denomination in accounting than as a real coin, but they can be found from time to time.
+
+!!The Kozel, Half Ocel, or Half Silver
+The Kozel, also colloqually refered to as the Half Ocel, or Half Silver, is a denomination with half the value of a standard Ocel. This coin can most often be found in two forms: A literal half of an Ocel, and a copper coin three centemetres across. 
+
+The first form was most common prior to the [[Age of Light|The Age of Light]] and has regained some popularity since [[The Fall]]. The Kozel was not an officially minted coin before the Age of Light, and anyone who wanted to use a devision of half an Ocel in trade would simply cut an Ocel in half. During the Age of Light, the copper form of the Kozel was introduced to discourage this practice, as semi-cirlces are unweildly to use in trade and the points tend to wear holes in pouches quickly.
+
+!!The Husak, Quarter Ocel, or Copper
+The Husak, also colloqually refered to as the Quarter Ocel, or Copper, is a denomination of currency with a quarter the value of an Ocel. This coin can most often be found in two forms: a literal quarter of an Ocel, and a copper coin two centemetres across.
+
+Much like the Kozel, the first form was most common prior to the Age of Light and has regained some popularity since [[The Fall]]. It was not an officially minted coin untill it's copper version was issued along with the copper version of the Kozel.
+
+!Historical Points
+!!Milling
+During the last half of the Age of Light, the coins were issued with ridges milled around their exterior to easily identify if part of the coin had been shaved off, a common form of fraud. Since the Fall, most moneyers do not mint coins with milling, and often debase the value of the coins themselves, as there is very little surviving oversight. [[The Court of King Arem]] has attempted to restore oversight into the minting process, to little success. 
+
+Because of this, most merchants will have one full set of Age of Light minted coins that they use to weigh suspicous coins against to verify their value.
+
+!!Markings
+The markings on the curency has varried from time to time. Before the Age of Light, coins were struck with the coat of arms of the town they were created in, and not much else. During the Age of Light, the manufacturing process was refined, and they were marked with the name of the town they were printed in, it's coat of arms, and the name of their denomination. Coins were never minted with a face on them, as worshipers of [[Ceris]] consider it to be defacing the image of their god and one of the highest acts of blasphemy.
+
+!Conversion Table
+|!       |!Foont |!Velik |!Zolot |!Ocel |!Kozel |!Husak |
+|!Foont  | 1     | 3     | 12    | 240  | 480   | 960   |
+|!Velik  | 1/3   | 1     | 4     | 80   | 160   | 320   |
+|!Zolot  | 1/12  | 1/4   | 1     | 20   | 40    | 80    |
+|!Ocel   | 1/240 | 1/80  | 1/20  | 1    | 2     | 4     |
+|!Kozel  | 1/480 | 1/160 | 1/40  | 1/2  | 1     | 2     |
+|!Husak  | 1/960 | 1/320 | 1/80  | 1/4  | 1/2   | 1     |
