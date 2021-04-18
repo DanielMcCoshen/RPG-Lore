@@ -1,0 +1,139 @@
+created: 20210415200906230
+creator: admin
+modified: 20210415214454176
+modifier: admin
+tags: [[OOG Resources]]
+title: 5e Weapon Costs
+type: text/vnd.tiddlywiki
+
+!Simple Melee Weapons
+|!Name |!Cost |!Source |
+|Club |2o |PHB |
+|Dagger |1z |PHB |
+|Greatclub |4o |PHB |
+|Handaxe |2v |PHB |
+|Javelin |10o |PHB |
+|Light Hammer |1z |PHB |
+|Mace |2v |PHB|
+|Quarterstaff |4o |PHB |
+|Sickle |1z |PHB |
+|Spear |1z |PHB |
+|Garrote Wire |2o |Steampunk Compendium |
+|Riding Crop |2z |Steampunk Compendium |
+|Sap |1z|Steampunk Compendium |
+|Cestus |2v |Steampunk Compendium |
+|Brass Knuckles |1f 1v |Steampunk Compendium |
+|Stiletto |2f 1v |Steampunk Compendium |
+|Switch Blade |3f 1v |Steampunk Compendium |
+|War Scythe |2f 1v |Steampunk Compendium |
+|Walking Cane |10f |Steampunk Compendium |
+
+!Simple Ranged Weapons
+|!Name |!Cost |!Source |
+|Crossbow, Light |2f 2v |PHB |
+|Dart |1o |PHB |
+|Shortbow |2f 2v |PHB |
+|Sling |2o |PHB |
+|Bola |1z |Steampunk Compendium |
+|Slingshot |12o |Steampunk Compendium |
+|Blight Grenade |65f |Steampunk Compendium |
+|Concussion Grenade |40f |Steampunk Compendium |
+|Corrosive Grenade |40f |Steampunk Compendium |
+|Drake Grenade |75f |Steampunk Compendium |
+|Flash Grenade |30f |Steampunk Compendium |
+|Frag Grenade |20f |Steampunk Compendium |
+|Frost Grenade |50f |Steampunk Compendium |
+|Gas Grenade |60f |Steampunk Compendium |
+|Preassure Grenade |85f |Steampunk Compendium |
+|Shock Grenade |110f |Steampunk Compendium |
+
+!Martial Melee Weapons
+|!Name |!Cost |!Source |
+|Battleaxe |1f  |PHB |
+|Flail |1f 1v |PHB |
+|Glave |2f 1v |PHB |
+|Greataxe |3f 1v |PHB |
+|Greatsword |5f |PHB |
+|Halberd |2f 1v |PHB |
+|Lance |1f |PHB |
+|Longsword |1f 2v |PHB |
+|Maul |1f |PHB |
+|Morningstar |1f 2v |PHB |
+|Pike |2v |PHB |
+|Rapier |2f 2v |PHB |
+|Scimitar |2f 2v |PHB |
+|Short Sword |1f |PHB |
+|Trident |2v |PHB |
+|War Pick |2v |PHB |
+|Warhammer |1f 2v |PHB |
+|Buzzsaw |20f |Steampunk Compendium |
+|Claw Glove |2f |Steampunk Compendium |
+|Cutlass |1f 2v |Steampunk Compendium |
+|Boot Knife |2f 2z |Steampunk Compendium |
+|Ball and Chain |5f 2v |Steampunk Compendium |
+|Sabre |3f 2v |Steampunk Compendium |
+|Estoc |2f 2v |Steampunk Compendium |
+|Sawtooth Sword |5f 1v |Steampunk Compendium |
+|Chain Whip |10f |Steampunk Compendium |
+|Gauntlet Blade |15f |Steampunk Compendium |
+|Lightning Baton |30f |Steampunk Compendium |
+
+!Martial Ranged Weapons
+|!Name |!Cost |!Source |
+|Blowgun |1f |PHB |
+|Crossbow, hand | 7f2v |PHB |
+|Crossbow, heavy |5f 1v |PHB |
+|Longbow |5f |PHB |
+|Chakram |20f |Steampunk Compendium |
+|Crossbow, repeating |10f |Steampunk Compendium |
+|Crossbow, automatic |10f |Steampunk Compendium |
+|Crossbow, reloading hand |35f |Steampunk Compendium |
+|Flamethrower |260f |Steampunk Compendium |
+
+!Primitive Firearms (All From Steampunk Compendium)
+!!Sidearms
+|!Name |!Cost |
+|Derringer |25f |
+|Dragoon |30f |
+|Flintlock Pistol |20f |
+|Pepperbox |45f |
+
+!!Longarms
+|!Name |!Cost |
+|Arquebus |20f |
+|Blunderbuss |95f |
+|Musket |50f |
+|Wheellock gun |40f |
+
+!Moderate Firearms (All From Steampunk Compendium)
+!!Sidearms
+|!Name |!Cost |
+|Colt Revolver |105f |
+|Magnum |120f |
+|Sawn-off Shotgun |125f |
+
+!!Longarms
+|!Name |!Cost |
+|Lever-action Rife |155f |
+|Single-shot Rife |140f |
+|Shotgun |210f |
+
+!Advanced Firearms (All From Steampunk Compendium)
+!!Sidearms
+|!Name |!Cost |
+|Automatic Pistol |220f |
+|Burst Pistol |220f|
+|Revolver |230f |
+|Hand Cannon |280f |
+
+!!Longarms
+|!Name |!Cost |
+|Automatic Rifle |365f |
+|Burst Rifle |365f |
+|Double Barrel Shotgun |350f |
+|Handheld Cannon |680f |
+|Tesla Rifle |365f |
+|Tesla Cannon |570f |
+|Rifleblade |520f |
+|Gunlance |625f |
+|Nock Gun |570f |

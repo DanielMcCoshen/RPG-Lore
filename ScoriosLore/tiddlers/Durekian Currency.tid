@@ -1,6 +1,6 @@
 created: 20210413211441424
 creator: admin
-modified: 20210415171519554
+modified: 20210416223802407
 modifier: admin
 tags: World History
 title: Durekian Currency
@@ -13,7 +13,7 @@ The [[Durekian|The Kingdom of Durek]] system of currency was created during the 
 The value of a coin is the value of the material that it is minted from. It's possible to mint any of these denominations from any metal, but the size of coin required in many cases is impractical, so some standard variations exist.
 
 !!The Foont, or Pound
-The Foont, or colloquially the pound, is the largest denomination of coin. The value of a foont is one pound of silver. Foont coins are rare, as not only are they extremely valuable, they are rather unweildy to store and use as tender. Foont coins are most often found as a silver coin roughly half a centimetre thick, and ten centemetres across, but can also be found as smaller gold coins roughly seven centemetres across.
+The Foont, or colloquially the pound, is the largest denomination of coin. The value of a foont is one pound of silver. Foont coins are rare, as not only are they extremely valuable, they are rather unweildy to store and use as tender. Older Foonts are a silver coin roughly half a centimetre thick, and ten centemetres across, but due to inflation and the need to carry more, they can now also be found as smaller gold coins roughly seven centemetres across.
 
 !!The Ocel, or Silver
 The Ocel, sometimes colloquially refered to as the Silver, is a denomination of coin which is 1/240th the value of a Foont. The Ocel is almost exclusively found as a silver coin two centemetres across.
@@ -44,7 +44,8 @@ Because of this, most merchants will have one full set of Age of Light minted co
 The markings on the curency has varried from time to time. Before the Age of Light, coins were struck with the coat of arms of the town they were created in, and not much else. During the Age of Light, the manufacturing process was refined, and they were marked with the name of the town they were printed in, it's coat of arms, and the name of their denomination. Coins were never minted with a face on them, as worshipers of [[Ceris]] consider it to be defacing the image of their god and one of the highest acts of blasphemy.
 
 !!Naming
-Some of the coins are named an old Durekian word for an animal that was at one point purchasable by that coin. Inflation of the years means that these associations are no longer true, but the name remains.
+Some of the coins are named an old Durekian word for an animal that was at one point purchasable by that coin. Inflation if the years since means that these associations are no longer true, but the name remains.
+
 * Ocel: Donkey
 * Kozel: Goat
 * Husak: Goose
@@ -59,3 +60,6 @@ The name Foont comes from the old Durekian word for Pound, as it's value is a po
 |!Ocel   | 1/240 | 1/80  | 1/20  | 1    | 2     | 4     |
 |!Kozel  | 1/480 | 1/160 | 1/40  | 1/2  | 1     | 2     |
 |!Husak  | 1/960 | 1/320 | 1/80  | 1/4  | 1/2   | 1     |
+
+!OOG Player Resources
+Dan has a python script to translate between standard d&d coinage and this system. Ask him if you want it. PHB cost tabes redone in this system can be found [[here|5e Cost Tables]]
