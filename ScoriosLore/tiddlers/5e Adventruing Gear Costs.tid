@@ -1,7 +1,8 @@
 created: 20210416224331724
 creator: admin
-modified: 20210417001313416
+modified: 20210420153426130
 modifier: admin
+tags: [[OOG Resources]]
 title: 5e Adventruing Gear Costs
 type: text/vnd.tiddlywiki
 
@@ -11,7 +12,7 @@ type: text/vnd.tiddlywiki
 |Alchemist's Fire (vial) |5f 1v |PHB |
 |Ammunition |<|<|
 | Arrow|1o ea. - 1z (20) |PHB |
-| Blowgun Needle|2h (ea). - 3o (dzn) |PHB |
+| Blowgun Needle|1k (ea). - 3o (dzn) |PHB |
 | Crossbow Bolt|1o (ea.) - 1z (20) |PHB |
 | Bullet, Sling|1h (5) - 1o (20) |PHB |
 | Bullet, Firearm|2z (ea.) - 1f (dozen) |Steampunk Compendium |
@@ -31,7 +32,7 @@ type: text/vnd.tiddlywiki
 |Bottle, glass |2z |PHB |
 |Bucket |1o |PHB |
 |Caltrop |1o ea. - 1z (20) |PHB |
-|Candle |1h |PHB |
+|Candle, tallow |1h |PHB |
 |Case, crossbow bolt |1z |PHB |
 |Case, map or scroll |1z |PHB |
 |Chain |12o/foot |PHB |
@@ -101,6 +102,7 @@ type: text/vnd.tiddlywiki
 |Robes |1z |PHB |
 |Rope, hemp |1k/foot |PHB |
 |Rope, silk |5o/foot |PHB |
+|[[Rushlight]] |1h (6) |Dan's Homebrew |
 |Sack |1h |PHB |
 |Scale, merchant's |1v |PHB |
 |Sealing wax |12o |PHB |
@@ -116,9 +118,10 @@ type: text/vnd.tiddlywiki
 |Tent, two-person |2z |PHB |
 |Tinderbox |12o |PHB |
 |Tool/Utility Belt |2v |Steampunk Compendium |
-|Torch |1h |PHB |
+|[[Torch]] |1h |PHB / Dan's Homebrew |
 |Vehicle Fuel |2f/gallon |Steampunk Compendium |
 |Vial |1z |PHB |
+|[[Watchlight]] |1h (6) |Dan's Homebrew |
 |Watch, pocket |1v to 2f |Steampunk Compendium |
 |Watch, wrist |1v |Steampunk Compendium |
 |Waterskin |5o |PHB |

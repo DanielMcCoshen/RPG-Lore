@@ -1,6 +1,6 @@
 created: 20210415200906230
 creator: admin
-modified: 20210415214454176
+modified: 20210422170943175
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Weapon Costs
@@ -90,7 +90,7 @@ type: text/vnd.tiddlywiki
 |Crossbow, reloading hand |35f |Steampunk Compendium |
 |Flamethrower |260f |Steampunk Compendium |
 
-!Primitive Firearms (All From Steampunk Compendium)
+!Primitive [[Firearms]] (All From Steampunk Compendium)
 !!Sidearms
 |!Name |!Cost |
 |Derringer |25f |
@@ -105,7 +105,7 @@ type: text/vnd.tiddlywiki
 |Musket |50f |
 |Wheellock gun |40f |
 
-!Moderate Firearms (All From Steampunk Compendium)
+!Moderate [[Firearms]] (All From Steampunk Compendium)
 !!Sidearms
 |!Name |!Cost |
 |Colt Revolver |105f |
@@ -118,7 +118,7 @@ type: text/vnd.tiddlywiki
 |Single-shot Rife |140f |
 |Shotgun |210f |
 
-!Advanced Firearms (All From Steampunk Compendium)
+!Advanced [[Firearms]] (All From Steampunk Compendium)
 !!Sidearms
 |!Name |!Cost |
 |Automatic Pistol |220f |
