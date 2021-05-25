@@ -1,15 +1,17 @@
 created: 20171229092730497
 creator: admin
-modified: 20210521222708785
+modified: 20210525210352992
 modifier: admin
 tags: Areas/Countries History Places
 title: The Kingdom of Eudin
 type: text/vnd.tiddlywiki
 
 !Political Information
-*''Capital:''
-** [[Dorringrad]] (Former)
-** [[New Dorringrad]] (current)
+|^Capital |[[Dorringrad]],,(Former),,<br>[[New Dorringrad]],,(current),, |
+|Leadership |Contested<br>[[House Selryn]],,(formerly),, |
+|Religion |[[Deities of Eudin|Deities]] |
+|Currency |[[Durekian Currency]] |
+|^Demographics |50% [[Human|Humans]]<br>30% [[Elf|Elves]]<br>7% [[Gnome|Gnomes]]<br>5% [[Mechanathari]]<br>4% [[Gremlin|Gremlins]]<br>2% [[Goblinoid|Goblinoids]]<br>1% [[Mountain Dwarf|Mountain Dwarves]]<br>1% [[Bel-Adorian]]|
 
 !Culture
 
@@ -40,11 +42,11 @@ For the last 6 generations of [[Human|Humans]] and 2 generations of [[Elf|Elves]
 !Major Settlements
 *[[Dorringrad]]
 *[[New Dorringrad]]
-*[[Arbortown]]
+*[[Arbor]]
 *[[Calden]]
 *[[Calhun]]
 *[[Clearwater]]
-*[[Vernwyn]]
+*[[Vyrnwyn]]
 *[[Gaidon]]
 *[[Ada]]
 *[[Nar]]

@@ -1,10 +1,15 @@
 created: 20210519193201643
 creator: admin
-modified: 20210521221849969
+modified: 20210525205639395
 modifier: admin
 tags: Factions
 title: The Lowlands Horde
 type: text/vnd.tiddlywiki
+
+|Formed |92 |
+|Seat of Power |[[Bricklin]] |
+|Government |Autocracy |
+|Leader |[[Hetman Farai Miroslava]] |
 
 !Description
 The Lowlands Horde is a nomadic military that controls the region of [[Eudin|The Kingdom of Eudin]] south of [[The Great Marsh]] and [[Blackwood Forest]], known as [[The Lowlands]]. The official seat of power for the Host is [[Bricklin]], but the leader, the Hetman, can rarely be found there. The Host itself migrates around their territory on horseback, leaving high ranking officials called Atamen to run their commiunities.
@@ -26,7 +31,11 @@ The current Hetman and Atamen of the Horde are:
 ** Ataman Raziel Karam of [[Bina]]
 
 !Laws
+!!Code of Honour
 The Horde allow for legal disputes to be settled by trial by combat. Each party may fight themselves or appoint a champion. The challenged party chooses the weapon, and the duel is moderated by the Ataman of the community, or the Hetman if they are present. Duels by blade are done standing on a square of burlap three feet across, and duels by firearm are done at ten pases. Dules are done to first blood, and it is not permitted to kill your opponent unless they show cowardice, and forfit the duel.
+
+!!Succession
+The Hetman of the Horde designates a successor who takes power after the death of the Hetman. This successor does not need to be from any particular family, they just need to be the person who the Hetman thinks is best suited to the job.
 
 !Relationships with Other Factions
 * [[The Trade Lords of Calhun]] - The Horde views the trade lords as a barrier to their expantion to the north. The only way to move their force north would be over the [[Calhun]] outcrop, but this is not allowed by the trade lords. The superior firepower of the trade lords keeps the Horde at bay, begrudgingly.
