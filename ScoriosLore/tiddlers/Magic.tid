@@ -1,5 +1,7 @@
 created: 20200310195945500
-modified: 20200312222050408
+creator: admin
+modified: 20210525193847663
+modifier: admin
 tags: Magic
 title: Magic
 type: text/vnd.tiddlywiki
@@ -10,7 +12,7 @@ Magic is a force that comes from the foundational [[planes|The Planes]] of exist
 Magic is devided first by the three planes that it comes from, the foundational planes of [[Creation|The Plane of Creation]], [[Alteration|The Plane of Alteration]], and [[Destruction|The Plane of Destruction]]. The magic of each of these three planes is then devided by three again, into Attunements, sometimes also refered to as Schools of Magic or Spheres of Magic. Each Plane has a core attunement, one that is central to what it is. Destruction is fire, Creation is Earth, and Alteration is Water. Each also has two border attunements, places within the plane where its energy mingles with that of the other foundational planes. These attunements must be accessed by first attuning onself to the foundational plane, and then to the specific attunement within the plane.
 
 !!Patrons
-A stong supernatual being, usually either a [[Faerie|Fae]], or a [[Dæmon|Dæmons]], can grant the ability to cross attune a border attunement to a different plane. This changes the way that the border attunement behaves. The boarder that can be cross-attuned is granted by the patron, and the person taking advantage of this can then attune that boarder to any foundational plane that they have an attuement with. For example, attuning healing to destruction grants the ability to consume the energy from the target, causing the same harm to them that the healing spell would normaly cure.
+A stong supernatual being, usually a [[god|Deities]] or a [[Dæmon|Dæmons]], can grant the ability to cross attune a border attunement to a different plane. This changes the way that the border attunement behaves. The boarder that can be cross-attuned is granted by the patron, and the person taking advantage of this can then attune that boarder to any foundational plane that they have an attuement with. For example, attuning healing to destruction grants the ability to consume the energy from the target, causing the same harm to them that the healing spell would normaly cure.
 
 When a patron is used, the incant changes from //I attune [Plane] to [Attunement]// to //[Patron] attunes [Plane] to [Attunement]//. eg //Erian attunes Healing to Destruction ...// 
 
