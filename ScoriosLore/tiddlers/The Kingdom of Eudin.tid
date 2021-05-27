@@ -1,6 +1,6 @@
 created: 20171229092730497
 creator: admin
-modified: 20210525223704639
+modified: 20210527042801911
 modifier: admin
 tags: Areas/Countries History Places
 title: The Kingdom of Eudin
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 |Leadership |Contested<br>[[House Selryn]],,(formerly),, |
 |Religion |[[Deities of Edion|Deities]] |
 |Currency |[[Durekian Currency]] |
-|^Demographics |50% [[Human|Humans]]<br>30% [[Elf|Elves]]<br>7% [[Gnome|Gnomes]]<br>5% [[Mechanathari]]<br>4% [[Gremlin|Gremlins]]<br>2% [[Goblinoid|Goblinoids]]<br>1% [[Mountain Dwarf|Mountain Dwarves]]<br>1% [[Bel-Adorian]]|
+|^Demographics |50% [[Human|Humans]]<br>30% [[Elf|Elves]]<br>7% [[Gnome|Gnomes]]<br>5% [[Mechanathari]]<br>4% [[Gremlin|Gremlins]]<br>2% [[Goblinoid|Goblinoids]]<br>1% [[Mountain Dwarf|Mountain Dwarves]]<br>1% [[Bel-Adorian|Bel-Adorians]]|
 
 !Culture
 
@@ -34,37 +34,45 @@ For the last 6 generations of [[Human|Humans]] and 2 generations of [[Elf|Elves]
 *[[The Court of King Arem]]
 *[[The Lowlands Horde]]
 *[[The Trade Lords of Calhun]]
-*[[The Coalition of Independent Northern Settlements]]
+*[[The Coalition of the Crystal Dunes]]
 
 !Map
 [img[Scorios - Edion.jpg]]
 
 !Major Settlements
-*[[Dorringrad]]
-*[[New Dorringrad]]
-*[[Arbor]]
+*[[Ada]]
+*[[Bina]]
+*[[Bricklin]]
+*[[Buntenberry]]
 *[[Calden]]
 *[[Calhun]]
 *[[Clearwater]]
-*[[Vyrnwyn]]
 *[[Gaidon]]
-*[[Ada]]
-*[[Nar]]
-*[[Buntenberry]]
 *[[Hopper]]
-*[[Bricklin]]
-*[[Bina]]
-*[[Turing]]
 *[[The Mines of Mordun]]
+*[[Nar]]
+*[[New Dorringrad]]
+*[[Pirates' Rest]]
+*[[Turing]]
+*[[Vyrnwyn]]
 
 !Known places of interest
-*[[The Tomb of King Ceremor]]
-*[[The Harvester]]
-*[[Pirates' Rest]]
-*[[The Great Library]]
+*[[Arbor]]
 *[[Caverns of Kardun]]
-*[[Ruins of Bel-Ador]]
-*[[Temple of Traks]]
-*[[The Twin Watchtowers]]
 *[[Deepwoods Crypt]]
+*[[Dorringrad Crater|Dorringrad]]
 *[[Frontguard Keep]]
+*[[The Great Library]]
+*[[The Harvester]]
+*[[Temple of Traks]]
+*[[The Tomb of King Ceremor]]
+*[[The Twin Watchtowers]]
+
+!Regions and Geological Features
+*[[Blackwood Forest]]
+*[[The Crystal Dunes]]
+*[[Dorringrad Woods]]
+*[[The Great Marsh]]
+*[[Highpeak Mountains]]
+*[[The Lowlands]]
+*[[Lyrin Bay]]

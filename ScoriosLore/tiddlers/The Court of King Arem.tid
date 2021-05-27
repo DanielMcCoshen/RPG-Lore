@@ -1,6 +1,6 @@
 created: 20180107034933927
 creator: admin
-modified: 20210525204804925
+modified: 20210527042657444
 modifier: admin
 tags: Factions
 title: The Court of King Arem
@@ -14,19 +14,25 @@ type: text/vnd.tiddlywiki
 !Hisotry
 An apparent heir to [[House Selryn]] has emerged in the figure of [[King Arem Selryn]]. Not much is known about him and his upbringing, but when he was a young adult he began to pull a small following claiming to be the heir to the crown of [[Eudin|The Kingdom of Eudin]]. His following began to grow to a size to rival Calhun's [[trade lords|The Trade Lords of Calhun]] and in 401 he installed himself  as king in [[New Dorringrad]]. In the 240 years since, the court of Arem has grown to be one of the most powerful and influential factions in Eudin. 
 
-!Landed Nobles
-The influence of the court of King Arem exists primarily through [[Clearwater]], [[Ada]], and [[Calden]]. [[Hopper]] is officially part of the domain, but the court dosn't have much control there.  The communities of [[The Mines of Mordun]] are devided between the court and [[The Lowlands Horde]], a source of tension between the two factions.  The landed nobles and the titles they hold are:
+!Nobles
+The influence of the court of King Arem exists primarily through [[Clearwater]], [[Ada]], and [[Calden]]. [[Hopper]] is officially part of the domain, but the court dosn't have much control there.  The communities of [[The Mines of Mordun]] are devided between the court and [[The Lowlands Horde]], a source of tension between the two factions. 
 
-* [[King Arem Selryn]] - King of Eudin, Duke of [[Dorringrad]]
-** Prince Ethris Selryn,  Crown Prince of Eudin, Duke of [[Clearwater]]
-*** Various counts of small towns
-** Duke Asco Sameera, Duke of [[Ada]]
-*** Various counts of small towns
-** [[Duchess Ivania Albena]], Duchess of [[Calden]]
-*** Various counts of small towns
-** Duke Jon Dahl, Duke of [[Hopper]]
-*** Various counts of small towns
-** [[Duchess Narayan Charikleia]], Duchess of [[Mordun|The Mines of Mordun]]
+!!Monarchs
+|!Monarch |!Reign |
+|[[King Arem Selryn]] |401 - present |
+
+!!Other Landed Nobles
+!!!Active
+|!Noble |!Title |!Reign |
+|Prince Ethris Selryn |Crown Prince of Eudin, Duke of [[Clearwater]] | 484 - present |
+|Duke Asco Sameera |Duke of [[Ada]] |621 - present |
+|[[Duchess Ivania Albena]]|Duchess of [[Calden]] |480 - present |
+|[[Duke Jon Dahl]] |Duke of [[Hopper]] |652 - present |
+|[[Duchess Narayan Charikleia]] |Duchess of [[Mordun|The Mines of Mordun]] |503 - present |
+
+!!!Former
+|!Noble |!Title |!Reign |
+|[[Duke Ewald Albena]] |Duke of [[Calden]] |251 - 480 (229 yrs.) |
 
 !Laws
 !!Criminal Code
@@ -38,4 +44,4 @@ The Court of King Arem uses [[primogeniture|https://en.wikipedia.org/wiki/Primog
 !Relationships with Other Factions
 *[[The Lowlands Horde]] - There is significant tenstion between the two factions. The Horde controlls half of [[The Mines of Mordun]], which is rightly the domain of the king. As well the Horde's historical agression against the city of [[Calden]] is a point of contention
 *[[The Trade Lords of Calhun]] - The court is conent to allow the trade lords to hold Calhun and to act as a buffer between them and the Horde. However, the court does not appreciate the trade lords' attempts to use this position as leverage against the economic state of the court's domain.
-*[[The Coalition of Independent Northern Settlements]] - The coalition and the court have a neutral relationship, and engage in large amounts of trade. However amongs some of the nobles and their courtiers there is a desire to integrate them under the court.
+*[[The Coalition of the Crystal Dunes]] - The coalition and the court have a neutral relationship, and engage in large amounts of trade. However amongs some of the nobles and their courtiers there is a desire to integrate them under the court.
