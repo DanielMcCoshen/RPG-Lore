@@ -1,6 +1,6 @@
 created: 20171229092730497
 creator: admin
-modified: 20210527042801911
+modified: 20210528192557158
 modifier: admin
 tags: Areas/Countries History Places
 title: The Kingdom of Eudin
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 !Political Information
 |^Capital |[[Dorringrad]],,(Former),,<br>[[New Dorringrad]],,(current),, |
-|Leadership |Contested<br>[[House Selryn]],,(formerly),, |
+|^Leadership |Contested<br>[[House Selryn]],,(formerly),,<br>[[House Sidika]],,(formerly),,<br>[[House Heliovich]],,(formerly),,|
 |Religion |[[Deities of Edion|Deities]] |
 |Currency |[[Durekian Currency]] |
 |^Demographics |50% [[Human|Humans]]<br>30% [[Elf|Elves]]<br>7% [[Gnome|Gnomes]]<br>5% [[Mechanathari]]<br>4% [[Gremlin|Gremlins]]<br>2% [[Goblinoid|Goblinoids]]<br>1% [[Mountain Dwarf|Mountain Dwarves]]<br>1% [[Bel-Adorian|Bel-Adorians]]|
@@ -23,7 +23,9 @@ The power balance of the land is based on access to old technology. Advanced [[f
 
 [[Durekian Currency]] is still used in the kingdom, despite [[The Trade Lords of Calhun]] trying to make their [[Scrip|Calhun]] standard.
 
-!Recent History
+!History
+The kingdom was named for [[King Eudin Heliovich]], it's founder.
+
 Dorringrad was the seat of [[House Selryn]] of [[Edion|The Realm of Edion]], and it had been throughout the [[Age of Light|The Age of Light]]. [[The Fall]] happened when the King of [[Ardos|The Kingdom of Ardos]] took advantage of the assassination of [[King Ceremor Selryn]]  and then invaded the country. The following conflict broke Eudin, destroyed its technological superiority, left its people scavenging for life, and hoping to find a gleam of ancient technology. 
 
 At the end of the war, the city of [[Dorringrad]] vanished mysteriously, leaving Eudin with no leadership or sense of direction. 
