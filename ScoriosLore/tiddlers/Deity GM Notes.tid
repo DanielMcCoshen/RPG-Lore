@@ -1,10 +1,13 @@
 created: 20171229064726823
 creator: admin
-modified: 20210520184733021
+modified: 20210702212242395
 modifier: admin
-tags: Spoilers Religion
-title: Deity Spoilers
+tags: [[GM Notes]]
+title: Deity GM Notes
 type: text/vnd.tiddlywiki
+
+To unlock GM notes please edit [[$:/state/GmNotes]]
+<$reveal type="match" state="$:/state/GmNotes" text="show">
 
 !The Truth
 All the deities here did in fact exist at some point in time; they are all heroes of the past that had their names fade into myth. 
@@ -43,3 +46,4 @@ At the start of all things there was The Energy. It had the power to create and 
 	Out of spite [[Heliox]] attacked the creations of [[Domeya]], killing many and wounding others. [[Domeya]] came to the defence of her creations and attacked [[Heliox]]. During their fight, magical fallout seeped into the rocks around them. This, unknown to the twins, caused the creation of [[Dwarves]] as souls formed in the rocks. 
 
 	The Energy saw the violence and what Its creation was capable of, and stopped the violence, restoring all that had been destroyed. The Energy was not happy with [[Heliox]] and removed his ability to create new life and to draw upon the Energy Itself, severing his ability to preform magic. From [[Domeya]], It removed the power to create new life, but left her magical ability intact. The Energy separated the twins, placing them on separate hemispheres of the world, and placed a barrier between them, a mighty [[mountain range|The Belt]] that neither could cross. The Energy made them mortal and created families for them, and only when their descendants had progressed enough to cross the barrier, could they live as one again.
+</$reveal>
