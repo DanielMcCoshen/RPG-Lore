@@ -1,6 +1,6 @@
 created: 20210519193201643
 creator: admin
-modified: 20210623192426923
+modified: 20210628214757322
 modifier: admin
 tags: Factions
 title: The Lowlands Horde
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 |Leader |[[Hetman Farai Miroslava]] |
 
 !Description
-The Lowlands Horde is a nomadic military that controls the region of [[Eudin|The Kingdom of Eudin]] south of [[The Great Marsh]] and [[Blackwood Forest]], known as [[The Lowlands]]. The official seat of power for the Host is [[Bricklin]], but the leader, the Hetman, can rarely be found there. The Host itself migrates around their territory on horseback, leaving high ranking officials called Atamen to run their commiunities.
+The Lowlands Horde is a nomadic military that controls the region of [[Eudin|The Kingdom of Eudin]] south of [[The Great Marsh]] and [[Blackwood Forest]], known as [[The Lowlands]]. The official seat of power for the Host is [[Bricklin]], but the leader, the Hetman, can rarely be found there. The Host itself migrates around their territory on horseback, leaving high ranking officials called Atamen to run their commiunities. All Atamen are considered equals, and the Horde does not recognize the feudal system of duchies and counties that was in place under the old [[monarchy|House Selryn]].
 
 !History
 The Lowlands Riders were one of the first one of the modern controlling factions to emerge in Eudin. After the [[The Fall]], many small bandit communities sprung up on the steppes of southern Eudin. These communities often came into conflict with one another and they were a danger to the legitimate villages and towns of the area. In the year 91, 8 years after the end of the war, a force was created to deal with them. This force, known as The Riders of Bricklin, was comprised of every cavalry man that [[Duke Icarus of Bricklin|Duke Icarus Loane]] could muster and was led by [[Hetman Emrys Kiko]]. Over the next several years, Kiko and his army rode around the steppes on campaign to destroy or assimilate the bandit population. For the first several months of the campaign, Kiko and the Riders raided bandit camps. However in the summer of 92, they were approaced by one of the communities with the offer to join them rather than kill them, Kiko accepted and the Lowlands Horde was born. The Horde proceded to assimilate or destroy the rest of the bandits in the area. 
@@ -41,7 +41,9 @@ Hetman Kiko was killed attempting to lay [[siege|Siege of Calden (108-109)]] to 
 
 !Laws
 !!Code of Honour
-The Horde allow for legal disputes to be settled by trial by combat. Each party may fight themselves or appoint a champion. The challenged party chooses the weapon, and the duel is moderated by the Ataman of the community, or the Hetman if they are present. Duels by blade are done standing on a square of burlap three feet across, and duels by firearm are done at ten pases. Dules are done to first blood, and it is not permitted to kill your opponent unless they show cowardice, and forfit the duel. This ban on killing means that duels by blade are far more common than those by firearm, as it's easier to kill one's opponent accedentally with a firearm. Those that choose duel by firearm are those that are confident enough in their skills to land a guaranteed non-lethal shot under the conditions of the duel
+The Horde allow for legal disputes to be settled by trial by combat. Each party may fight themselves or appoint a champion. Should the charges come from the community itself, the community will appoint a champion, and most communities have a dedicated champion. The challenged party chooses the weapon, and the duel is moderated by the Ataman of the community, or the Hetman if they are present. Duels by blade are done standing on a square of burlap three feet across, and duels by firearm are done at ten pases. Dules are done to first blood, and it is not permitted to kill your opponent unless they show cowardice, and forfit the duel. This ban on killing means that duels by blade are far more common than those by firearm, as it's easier to kill one's opponent accedentally with a firearm. Those that choose duel by firearm are those that are confident enough in their skills to land a guaranteed non-lethal shot under the conditions of the duel
+
+Before the duel, the plantif requests a sentance from the arbitrator of the duel. The arbitrator can at this time throw out the charges if they are deemed frivilous. The arbitrator will take the requested sentence into consideration, but after the duel, the arbitrator can pass any sentance, not nessessarily the one requested by the plaintif.
 
 !!Succession
 The Hetman of the Horde designates a successor who takes power after the death of the Hetman. This successor does not need to be from any particular family, they just need to be the person who the Hetman thinks is best suited to the job. Atamen, in the same way can designate their successor, however the Hetman has the power to veto a designation.
