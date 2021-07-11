@@ -1,0 +1,13 @@
+created: 20210705190033226
+creator: admin
+modified: 20210705190324831
+modifier: admin
+tags: [[GM Notes]]
+title: GM Notes - Milo's and Pallavi's
+type: text/vnd.tiddlywiki
+
+To unlock GM notes please edit [[$:/state/GmNotes]]
+<$reveal type="match" state="$:/state/GmNotes" text="show">
+
+[[Milo's|Calhun - Milo's Pawn and Bargain]] and [[Pallavis's|Calhun - Pallavi's]] share a basement. The wall was knocked out between the two buisnesses secretly, and the space is used as a church to [[Ceris]].  
+</$reveal>
