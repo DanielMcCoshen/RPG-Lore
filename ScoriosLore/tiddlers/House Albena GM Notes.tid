@@ -1,6 +1,6 @@
 created: 20210702210741633
 creator: admin
-modified: 20210702212228042
+modified: 20210716234714880
 modifier: admin
 tags: [[GM Notes]]
 title: House Albena GM Notes
@@ -9,6 +9,13 @@ type: text/vnd.tiddlywiki
 To unlock Gm Notes please edit [[$:/state/GmNotes]]
 <$reveal type="match" state="$:/state/GmNotes" text="show">
 
-House Albena are vampires. Arimani and Ewald are the same person and Nona and Ivania are as well. They have tunnels that run from their [[estate|Calden - The Albena Estate]] to the [[stronghold|Calden - The Stronghold]], and the prisoners who go missing are eaten by the Albenas.
+* House Albena are [[Vampires]]. Arimani and Ewald are the same person and Nona and Ivania are as well. They have tunnels that run from their [[estate|Calden - The Albena Estate]] to the [[stronghold|Calden - The Stronghold]], and the prisoners who go missing are eaten by the Albenas.
+
+* House Albena have been vampires since before they became nobles
+
+* House Albena needed a new king, so they found the imperial crown and got it to [[King Arem Selryn]]
+
+
+The 4 vamires who make up the core family are Arimani, Antoinette, and their children Gerald and Nona. The names and itentities of the rest of the family have been passed around in order to maintain the illusion. [[Michel/Epine/Corbeau|Corbeau Albena]] is a wildcard bastard, Gerald's child.
 
 </$reveal>
