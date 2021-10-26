@@ -1,6 +1,6 @@
 created: 20210421181653820
 creator: admin
-modified: 20210421183109302
+modified: 20211025193227176
 modifier: admin
 tags: Things
 title: Cars
@@ -10,4 +10,4 @@ type: text/vnd.tiddlywiki
 Cars are ground vehicles fitted with an [[engine|Engines]]. They were the primary means of ground transport during [[The Age of Light]]. Most of them were captured by [[The Kingdom of Ardos]] during [[The Fall]] or bought by [[The Trade Lords of Calhun]] shorty after, making them an uncommon sight in [[Eudin|The Kingdom of Eudin]]. 
 
 !Mechanics
-Cars fitted with Stirling Engines can be found in two configurations: with magical or mechanical control. Those fitted with magical control require the user to manipulate the engine directly for more control over it. Mechanical Control was developed primarily for [[Humans]] and is similar to a real-wolrld interface for driving a car. 
+Cars fitted with Stirling Engines can be found in two configurations: with magical or mechanical control. Those fitted with magical control require the user to manipulate the engine and steering directly for more control over it. Mechanical Control was developed primarily for [[Humans]] and is similar to a real-wolrld interface for driving a car. This system usually consists of mechanical steering in conjunction with a [[Stirling Control]] to manipulate the engine. The stirling control is usually integrated into the vehicle, but there are modular models as well.

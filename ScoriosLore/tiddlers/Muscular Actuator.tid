@@ -1,0 +1,17 @@
+created: 20211026164200990
+creator: admin
+modified: 20211026201055881
+modifier: admin
+tags: Things
+title: Muscular Actuator
+type: text/vnd.tiddlywiki
+
+!Description
+
+A muscular actuator is a simple magic item that uses a combenation of [[Mind|The Attunement of Mind]] and [[Healing|The Attunement of Healing]] magics to actuate a piston a distance proportional to the force exerted by a flexing muscle (or muscle equivilant) that it is placed against. A muscular actuator can be tuned in it's starting distance, ending distance , and the curve which maps muscular force to distance actuated. To do so, one must remove a locking screw from the actuator, speak it's command word, and then in the following things: start disance in millimetres, end distance in millimetres, and finally the equasion of the mapping curve.
+
+Muscular Actuators were invented near the end of [[The Age of Light]] as part of [[Project Godhammer]] to be used as a core component of [[Powered Armour]]. In the time since, they have been removed from broken down sets of powered armour, and have been used in many other applications.
+
+!Rules
+!!5e
+//wonderous item, uncommon//
