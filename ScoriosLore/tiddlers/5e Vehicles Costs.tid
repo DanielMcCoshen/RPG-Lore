@@ -1,23 +1,86 @@
 created: 20210421161426062
 creator: admin
-modified: 20210421181645273
+modified: 20211026001636349
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Vehicles Costs
 type: text/vnd.tiddlywiki
 
 !Tack, Harness, and Drawn Vehicles
+|!Vehicle |!Cost |!Source |
+|Barding |x4 |PHB |
+|Bit and Bridle |2z |PHB |
+|Carriage |10f |PHB |
+|Cart |1f1v |PHB |
+|Chariot |24f |PHB |
+|Feed (1 day) |1o |PHB |
+|Saddle |<|<|
+| Exotic|6f |PHB |
+| Military|2f |PHB |
+| Pack|1v 2z|PHB |
+| Riding|1f |PHB |
+|Saddlebags |1v 1z |PHB |
+|Sled |2f |PHB |
+|Stabling (1 day) |10o |PHB |
+|Wagon |1f 2v |PHB |
+
 !Advanced Land Vehicles
 |!Vehicle |!Cost |!Source |
 |Bicycle |15f |Dan's Homebrew |
 |[[Car|Cars]], Small, [[Steam Engine|Engines]] |75f |Steampunk Compendium / Dan's Homebrew |
 |[[Car|Cars]], Large, [[Steam Engine|Engines]] |200f |Steampunk Compendium / Dan's Homebrew |
 |[[Car|Cars]], Small, [[Stirling Engine|Engines]] |975f |Steampunk Compendium / Dan's Homebrew |
-|[[Car|Cars]], Large, [[Stirling Engine|Engines]] |2600f |Steampunk Compendium / Dan's Homebrew |
+|[[Car|Cars]], Large, [[Stirling Engine|Engines]] |2,600f |Steampunk Compendium / Dan's Homebrew |
 |[[Tank|Tanks]], [[Steam Engine|Engines]] |750f |Steampunk Compendium / Dan's Homebrew |
-|[[Tank|Tanks]], [[Stirling Engine|Engines]] |10500f |Steampunk Compendium / Dan's Homebrew |
-|Locomotive, [[Steam Engine|Engines]] |1050f |Steampunk Compendium / Dan's Homebrew |
-|Locomitive,  [[Stirling Engine|Engines]] |13650f |Steampunk Compendium / Dan's Homebrew |
+|[[Tank|Tanks]], [[Stirling Engine|Engines]] |10,500f |Steampunk Compendium / Dan's Homebrew |
+|Locomotive, [[Steam Engine|Engines]] |10,50f |Steampunk Compendium / Dan's Homebrew |
+|Locomitive,  [[Stirling Engine|Engines]] |13,650f |Steampunk Compendium / Dan's Homebrew |
 
 !Waterborne Vehicles
+The cost of large vehicles is up for negotiation, however these are some referance values.
+
+|!Vehicle |!Cost |!Source |
+|Rowboat |6f |Captains and Cannons |
+|Lifeboat |8f |Captains and Cannons |
+|Catamaran |16f |Captains and Cannons |
+|Longship |500f |Captains and Cannons |
+|Sloop |1,200f |Captains and Cannons |
+|Gunboat |750f |Captains and Cannons |
+|Fluyt |1,000f |Captains and Cannons |
+|Clipper |4,500f |Captains and Cannons |
+|Galley |2,000f |Captains and Cannons |
+|Warship |4,500f |Captains and Cannons |
+|Steam Ship |5,000f |Captains and Cannons |
+|Battleship |11,000f |Captains and Cannons |
+
 ![[Airborne Vehicles|Airships]]
+The cost of large vehicles is up for negotiation, however these are some referance values. Airships should be built using Captains and Cannons stats, save for sky boards and gliders which are not large enough to warant this. Airships always have some value of independant propultion.
+
+|!Vehicle |!Cost |!Source |
+|Skyboard |200f |Steampunk Compendium |
+|Glider |15f |Steampunk Compendium |
+|Small Ornithopter ,,(Rowboat),, |300f |Captains and Cannons |
+|Medium Ornithopter ,,(Lifeboat),, |400f |Captains and Cannons |
+|Large Ornithopter ,,(Catamaran),, |800f |Captains and Cannons |
+|Longship |1,500f |Captains and Cannons |
+|Sloop |2,200f |Captains and Cannons |
+|Gunboat |1,750f |Captains and Cannons |
+|Fluyt |2,000f |Captains and Cannons |
+|Clipper |5,500f |Captains and Cannons |
+|Galley |3,000f |Captains and Cannons |
+|Warship |5,500f |Captains and Cannons |
+|Steam Ship |6,000f |Captains and Cannons |
+|Battleship |12,000f |Captains and Cannons |
+
+!Ship Equipment (Captains and Cannons)
+!!Hull Upgrades
+|!Item |!Price |
+|Spiked Plates |300f |
+|Magic Mesh |800f |
+|Spell Sheilding |1,000f |
+
+!!Misc
+|!Item |!Price |
+|Naval Ram |10f |
+|Boarding Plank |2v |
+|Naval Mines |3f |

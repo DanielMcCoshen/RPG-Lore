@@ -1,6 +1,6 @@
 created: 20210416224331724
 creator: admin
-modified: 20210420153426130
+modified: 20211026001516088
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Adventruing Gear Costs
@@ -12,14 +12,25 @@ type: text/vnd.tiddlywiki
 |Alchemist's Fire (vial) |5f 1v |PHB |
 |Ammunition |<|<|
 | Arrow|1o ea. - 1z (20) |PHB |
-| Blowgun Needle|1k (ea). - 3o (dzn) |PHB |
-| Crossbow Bolt|1o (ea.) - 1z (20) |PHB |
+| Blowgun Needle|1k (ea). - 3o (dozen) |PHB |
+| Bolt, Balista|3z (ea.) - 3f (dozen) |Captains and Cannons |
+| Bolt, Balista, Flaming|1v (ea.) - 4f (dozen) |Captains and Cannons |
+| Bolt, Crossbow|1o (ea.) - 1z (20) |PHB |
 | Bullet, Sling|1h (5) - 1o (20) |PHB |
 | Bullet, Firearm|2z (ea.) - 1f (dozen) |Steampunk Compendium |
-| Flamethrower Fuel|2z (ea.) - 2f (dozen) |Steampunk Compendium |
+| Cannonball|2v (ea.) - 8f (dozen) |Captains and Cannons |
+| Chainshot|1v (ea.) - 4f (dozen) |Captains and Cannons |
+| Fuel, Dragon's Head|10f (ea) - 30f (3)|Captains and Cannons |
+| Fuel, Flamethrower|2z (ea.) - 2f (dozen) |Steampunk Compendium |
+| Fuel, Salamander|6f 2v (ea) - 20f (3)|Captains and Cannons |
+| Grapeshot|1v (ea.) - 4f (dozen) |Captains and Cannons |
+| Grapling Hook, Ship|5f (ea.) |Captains and Cannons |
 | Gunpowder & lead ball|12o (ea.) - 1f (20) |Steampunk Compendium |
 | Shotgun Shell, Pellet|12o (ea.) - 1f (20) |Steampunk Compendium |
 | Shotgun Shell, Slug|2z (ea.) - 2f (dozen) |Steampunk Compendium |
+| Smoke Bomb, Cannon|2f (ea.) |Captains and Cannons |
+| Spell Shot|10f |Captains and Cannons |
+| Stone, Catapult|3z (ea.) - 3f (dozen) |Captains and Cannons |
 |Backpack |2z |PHB |
 |Ball Bearings (bag of 8 gross) |1z |PHB |
 |Barrel |2z |PHB |
@@ -70,6 +81,7 @@ type: text/vnd.tiddlywiki
 |Ink Carterage |12o |Steampunk Compendium |
 |Ink pen, carterage |1z |Steampunk Compendium |
 |Ink pen, dip |1k |PHB |
+|Jetpack |1,500f |Steampunk Compendium |
 |Jug or Pitcher |1k |PHB |
 |Ladder, 10 foot |2o 1k |PHB |
 |Lamp |12o |PHB |
@@ -116,6 +128,7 @@ type: text/vnd.tiddlywiki
 |Spyglass |100f |PHB |
 |Steamer Trunk (Large) |1v |Steampunk Compendium |
 |Tent, two-person |2z |PHB |
+|Three-Dimentional Maneuvering Gear|1,000f |Steampunk Compendium |
 |Tinderbox |12o |PHB |
 |Tool/Utility Belt |2v |Steampunk Compendium |
 |[[Torch]] |1h |PHB / Dan's Homebrew |
@@ -125,4 +138,5 @@ type: text/vnd.tiddlywiki
 |Watch, pocket |1v to 2f |Steampunk Compendium |
 |Watch, wrist |1v |Steampunk Compendium |
 |Waterskin |5o |PHB |
-|Whetstone |1h |PHB | 
+|Whetstone |1h |PHB |
+
