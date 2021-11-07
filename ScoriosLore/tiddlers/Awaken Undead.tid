@@ -1,0 +1,25 @@
+created: 20211102200623151
+creator: admin
+modified: 20211102211050076
+modifier: admin
+tags: Magic
+title: Awaken Undead
+type: text/vnd.tiddlywiki
+
+!Effect
+This spell must be cast upon an undead. It calls along the teather that exists between the target's body and their [[soul|Souls]]. If this is successful, the newly awakened undead will awake, and remember their mortal life. However, they will not remember the afterlife, and will not remember what happened to their body in the meantime, if it spent time as a standard [[Undead]] before being awakened.
+
+There are two ways for the awakening to fail. If the bonds between body and soul have been cut, the [[soul|Souls]] will not return. The awakening can also fail if the body of the undead being awakened is too damaged to support the attaching of a soul. If this is the case, the soul is drawn from the afterlife, and fails to re-attach to it's body. It lingers on [[The Material Plane]] as a ghost. 
+
+When an Undead is awakened, they still retain their artifical [[animus|Souls]], however it's control is granted to the spirit returning to the body.
+
+!Rules
+!!5e
+//8th level Necromancy Ritual//
+
+|Casting Time |18 hours |
+|Range |Touch |
+|Duration |Instant |
+|Components|VSM (Diamonds and onyx worth 1,000f/10,000gp, consumed by the spell) |
+
+Being awakend is a disconserting experiance, and the newly awakened undead takes a -4 penalty to all Attack rolls, Saving Throws, and Ability Checks. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it disappears.

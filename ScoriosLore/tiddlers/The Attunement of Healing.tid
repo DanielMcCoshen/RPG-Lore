@@ -1,6 +1,6 @@
 created: 20200312230747500
 creator: admin
-modified: 20210715163048920
+modified: 20211102200541205
 modifier: admin
 tags: Magic
 title: The Attunement of Healing
@@ -14,4 +14,8 @@ The Attunement of Healing is an attunement of [[Magic]] within [[The Plane of Al
 *When attuned to [[Creation|The Plane of Creation]], Healing magic will create [[undead|Undead]] from the corpses of the dead, a practice commonly called Necromancy
 
 !!Spells
-*Spells Go Here
+!!!Destruction Cross-attunement only
+* [[Soul Sever]]
+
+!!!Necromancy Only
+* [[Awaken Undead]]
