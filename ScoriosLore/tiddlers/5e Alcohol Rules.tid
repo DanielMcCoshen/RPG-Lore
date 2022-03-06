@@ -1,0 +1,77 @@
+created: 20220304172446487
+creator: admin
+modified: 20220304184425357
+modifier: admin
+tags: [[OOG Resources]]
+title: 5e Alcohol Rules
+type: text/vnd.tiddlywiki
+
+!Alcohol
+Every alcoholic drink has a strength level, which roughly corresponds to the amount of alcohol in it, and as a creature consumes more and more alcohol, they acquire different levels of drunkenness.
+
+Every time someone has a drink of alcohol, they have to make a Constitution saving throw or acquire a level of drunkenness. The DC for the saving throw is (8 + the number of levels of drunknness already acquired + the alcoholic strength of the beverage). 
+
+|!Drink Type	|!Alcoholic Strength |
+|Beer, Ale, Cider |1 |
+|Wine, Mead	|2 |
+|Dessert Wines, Brandy |3 |
+|Hard Liquor |4 |
+
+If the creature is smaller than size medium, they make their drunkenness saving throw with disadvantage, and if larger than medium, with advantage. Creatures of giant size and above cannot get drunk by these rules, as the beverages that puny creatures like dwarves and humans drink are far too weak to affect them.
+
+It takes a number of drinks equal to a creature's Constitution modifier minus one before that character is visibly drunk. They may well have acquired some levels of drunkenness by then, but it would take a Wisdom (Perception) check to tell. The DC for the check is (10 + the drinker's CON modifier).
+
+After someone has stopped drinking, each level of drunkenness takes one full hour to go away. The effects of drunkenness levels stack.
+
+If a creature advances 3 or more drunkenness levels in an hour, they must make a Constitution saving throw or gain the poisoned condition due to alcohol poisoning. The DC for this save is (8 + their former drunkenness level + the strength of their most recent drink).
+
+Upon gaining a level of drunkenness, a creature must make a saving throw against addiction (See Alcoholism below).
+
+!!Drunkenness
+|!Level |!Effect |
+|1 |Wisdom (Perception) checks have disadvantage |
+|2 |All Dexterity saving throws and checks have disadvantage |
+|3 |All Charisma saving throws and checks have disadvantage |
+|4 |Creature becomes 'hammered' (see below). |
+|5 |Character is unconscious and cannot be woken until at least two levels of drunkenness have expired. |
+
+!!Getting Hammered
+At drunkenness level 4, the drinker enters the 'hammered' stage. There are four options for this, determined by the drinker's personality.
+
+''Happy Drunk.''  If the drinker is a happy drunk, then during this stage they consider everyone around them on the best possible terms. All jokes are funny. All people are generous and worthy. All love is true and all enemies misunderstood. 
+
+The drinker must make a DC 10 Charisma saving throw for every person within 30 feet, starting with the closest and getting progressively farther away. The first person for whom the drinker fails their saving throw becomes the drinker's best friend in the world (temporarily).
+
+Treat this as though the person had cast the charm person spell on the drinker with the exception that the drinker will not willingly leave that person's company under any circumstances.
+
+If the drinker has a lengthy interaction with someone else, the charm effect may move to that person, at the DM's discretion.
+
+''Sad Drunk.'' If the drinker is a sad drunk, then during this stage of drunkenness they are morose and weepy, lamenting all the bad things that have happened to them, to their friends, and to the world in general. All effort is pointless, all aspirations hopeless. For the duration of this stage, the drinker behaves as though they had acquired 4 levels of exhaustion.
+
+Moreover, even being around the drinker is enervating. Unless they have at least two drunkenness levels, anyone within 15 feet of the drinker or who significantly interacts with them (DM's discretion) must make a DC 10 Charisma saving throw every hour or acquire a level of exhaustion. Levels of exhaustion gained in this manner are lost much faster than normal: once out of the drinker's influence, they go away at a rate of 1 per hour. Levels of exhaustion gained this way cannot be fatal.
+
+''Angry Drunk.'' If the drinker is an angry drunk, then during this stage of drunkenness they are aggressive and bellicose. Every character within sight of the drinker must make a DC 10 Charisma saving throw, starting with the closest and getting progressively farther away. The first character to fail the saving throw becomes the target of the angry drunk's ire. The drinker is compelled to attack that character using only fists and improvised weapons. Fortunately for their intended victim, the drinker has disadvantage on all attack rolls and all attacks made against them have advantage. The drinker will continue to fight until victorious (the target flees or drops unconscious), at which point a new target is found, or is knocked unconscious themselves.
+
+''Stupid Drunk.'' If the drinker is a stupid drunk, then during this stage they have great trouble following even simple conversations and consider themselves to be the wisest, most knowledgable person in whatever room they happen to be in.
+
+The drinker loses 2d4 points of Intelligence and 1d4 points of Charisma. Ability score damage acquired in this way goes away entirely after a long rest.
+
+They must then must make a DC 10 Wisdom saving throw for every person within 30 feet, starting with the closest and getting progressively farther away. The first person for whom the drinker fails their saving throw becomes the focus of the drinker's undivided attention.
+
+As far as the drinker is concerned, whoever it is they're focused on is wrong about something very, very important that the drinker is an expert on, and the drinker is compelled to correct that person's misunderstandings.
+
+Treat this as though the drinker has had the suggestion spell cast on them with the command that they talk to the person they've identified. If the drinker has a lengthy interaction with someone else, the suggestion effect may move to that person, at the DM's discretion.
+
+!!Hangovers
+After all drunkeness levels have expired, the drinker must make a Constitution saving throw to avoid a hangover. The DC is (10 + the maximum drunkenness level acquired + the strength level of the strongest drink they imbibed).
+
+Hangovers cause characters to move at half speed and have disadvantage on all attack rolls and Dexterity saving throws and checks. If a hungover character completes a short rest, they can make their saving throw again and, on a success, they shake off the hangover.
+
+A creature has advantage on their saving throw to avoid a hangover if they have another drink
+
+The hangover condition goes away on its own after a long rest, or may be removed by a lesser or greater restoration spell.
+
+!!Alcoholism
+Alcohol is an addictive substance, and therefore follows the [[addictive substance rules|5e Addiction Rules]]. After gaining a level of drunkeness, a character must make a saving throw against their current level of drunkenness (eg: A character that just passed out must make a DC 5 con save) or become addicted. For the purpose of breaking addiction, always treat this DC as 5. Alcohol has 4 addiction dice. Alcoholics have advantage on their saving throws to aquire drunkenness levels, and loos their drunkenness levels at half speed.
+
+,,Adapted from https://www.gmbinder.com/share/-LQ6dWvF_1RSH1QucVi1,,

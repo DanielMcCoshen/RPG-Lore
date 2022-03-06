@@ -1,13 +1,24 @@
 created: 20210705195414128
 creator: admin
 list: [[5e Adventruing Gear Costs]] [[5e Animal Costs]] [[5e Armour Costs]] [[5e Cost Tables]] [[5e Food, Drink, and Lodging Costs]] [[5e Gremlin Rules]] [[5e Lifestyle Expenses Costs]] [[5e Service Costs]] [[5e Tools Costs]] [[5e Vehicles Costs]] [[5e Weapon Costs]]
-modified: 20211102200023498
+modified: 20220304190211272
 modifier: admin
 tags: 
 title: OOG Resources
 type: text/vnd.tiddlywiki
 
+!Coinage
 * [[5e Cost Tables]]
 * [[5e Starting Coin]]
+
+!Magic
 * [[Homebrew Magic Items]]
 * [[Homebrew Spells]]
+
+!Homebrew Races
+* [[Gremlins|5e Gremlin Rules]]
+
+!Homebrew Mechanics
+* [[Alcohol|5e Alcohol Rules]]
+* [[Addiction|5e Addiction Rules]]
+* [[List of Drugs]]
