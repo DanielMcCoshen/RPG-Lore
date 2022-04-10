@@ -1,6 +1,6 @@
 created: 20210519193201643
 creator: admin
-modified: 20220102024359840
+modified: 20220407042410521
 modifier: admin
 tags: Factions
 title: The Lowlands Horde
@@ -40,13 +40,45 @@ Hetman Kiko was killed attempting to lay [[siege|Siege of Calden (108-109)]] to 
 |[[Ataman Caseo Nyoman]] |[[Bricklin]] |100 - 122 |
 
 !Laws
-!!Code of Honour
+!!Rights
+Any living sentient being who resides within the jurisdiction of the Horde is entitiled to protection under the law. Undead are not protected, regardless of sentience.
+
+!!Offences
+!!!Murder
+One who kills another without lawful excuse may be charged with murder. If one kills someone lawfully, they must protect the body from desecration by weather or animal, and mark it's resting place clearly. The killing must be reported to the nearest authority that the killer belives that will not murder them in realiation. Failure to follow this procedure will cause the killing to become a murder.
+
+Lawful excuses for killing include:
+
+* The defense of one's own life, or the life of one's family member
+* The defense of one's honour, slighted through public declaration or poetic challenge
+* The defense of one's deity's honour, slighted through public declaration or poetic challenge
+** Excepting Damir, Rel, Vela, and Runda, or others at the discression of the arbitrator of a trial by combat
+* The defense of any Hetman's honour, past or present, slighted through public declaration or poetic challenge
+* Any justification the arbitrator of a trial by combat accepts
+
+!!!Theft
+One who steals the property of another may be charged with theft. If one is stolen from, they are expected to confront the suspected theif and attempt to reslolve the situation on one's own before placing charges. The stealing of food to sustain one's life is not considered theft.
+
+!!!Tresspassing
+The population of a community can charge someone they do not wish to remian the village by challenging them to a trial. Should the charged loose this duel, they are stripped of protection under the law in that village.
+
+!!!Slight of Honour
+Any slight against one's honour, weather or not it is justification for killing, can be charged. Truth is a deffence against defamation, at the judgement of the arbitrator of the trial.
+
+!!Regional Oversight
+The Ataman of the capitals of the Old Duchies are responsible for overseeing local conflict within the teritory that their duchies used to contain. These Atamen have no additional power outside of arbitration of trials involving other Atamen within their juisdiction.
+
+!!Trial by Combat
 The Horde allow for legal disputes to be settled by trial by combat. Each party may fight themselves or appoint a champion. Should the charges come from the community itself, the community will appoint a champion, and most communities have a dedicated champion. The challenged party chooses the weapon, and the duel is moderated by the Ataman of the community, or the Hetman if they are present. Duels by blade are done standing on a square of burlap three feet across, and duels by firearm are done at ten pases. Dules are done to first blood, and it is not permitted to kill your opponent unless they show cowardice, and forfit the duel. This ban on killing means that duels by blade are far more common than those by firearm, as it's easier to kill one's opponent accedentally with a firearm. Those that choose duel by firearm are those that are confident enough in their skills to land a guaranteed non-lethal shot under the conditions of the duel
 
 Before the duel, the plantif requests a sentance from the arbitrator of the duel. The arbitrator can at this time throw out the charges if they are deemed frivilous. The arbitrator will take the requested sentence into consideration, but after the duel, the arbitrator can pass any sentance, not nessessarily the one requested by the plaintif.
 
+If the plaintiff disagrees with the arbitrator's decision, they can either go up the chain of command to the Hetman, or they may challenge the arbitrator to a duel to have the charges re-instated.
+
 !!Succession
 The Hetman of the Horde designates a successor who takes power after the death of the Hetman. This successor does not need to be from any particular family, they just need to be the person who the Hetman thinks is best suited to the job. Atamen, in the same way can designate their successor, however the Hetman has the power to veto a designation.
+
+Sometimes Atamen are killed and replaced by their population. This is illegal, and therefore only done with consensus of the people, else someone report it to a higher authority.
 
 !Relationships with Other Factions
 * [[The Trade Lords of Calhun]] - The Horde views the trade lords as a barrier to their expantion to the north. The only way to move their force north would be over the [[Calhun]] outcrop, but this is not allowed by the trade lords. The superior firepower of the trade lords keeps the Horde at bay, begrudgingly.
