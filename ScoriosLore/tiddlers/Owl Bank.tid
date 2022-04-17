@@ -1,6 +1,6 @@
 created: 20210920203549611
 creator: admin
-modified: 20211009032028618
+modified: 20220415073109650
 modifier: admin
 tags: Cities/Towns
 title: Owl Bank
@@ -21,9 +21,13 @@ During [[The Fall]], the outskirts of Owl Bank were razed by the invading [[Ardo
 !!Geography
 Owl Bank is a small village located on the north shore of the [[Perspav River]], which forms the boarder between [[The County of Calhun]] in [[The Duchy of Calhun]] and [[The County of Villenuit]] in [[The Duchy of Calden]]. The town  is also near the boarder with [[The County of ???]] in the Duchy of Calden, which is currently under the control of [[The Lowlands Horde]]. 
 
-Below the village is an ancient abandoned mine. The mines are dangerous and have not been mapped or fully explored for generations. This mine has several enterances. The largest, however, is downriver to the west of the town. A bit futher on from the entrance to the mine, the river itself pours through a hole in the ground and travels underground for several kilometres before exiting the cave later on. It is thought that this cave is connected to the mines, but no one is sure.
+Below the village is an ancient abandoned cave system. The caves are dangerous and have not been mapped or fully explored for generations. These caves hve several enterances. The largest, and most developed, however, is downriver to the west of the town. A bit futher on from the entrance to the cave, the river itself pours through a hole in the ground and for several kilometres before exiting the cave later on.
 
-To the north of the village there is small wooded glade, which the locals believe to be home to a group of [[Dæmons]] they call [[The Gladekeepers]]. These dæmons rarely leave their woods, but remain a local legend used by parents to scare their children into behaving.
+Upstream of the village there is a wooded glade, which the locals believe to be home to a group of [[Dæmons]] they call [[The Gladekeepers]]. These dæmons rarely exit their woods, but those who enter the glade sometimes vanish without trace. Becuase of this, most of the town give the glade a wide birth.
+
+To the north of the town lies a vast abandoned open pit mine. During the Age of Light, a deposit of platnum was found, prompting an influx of buisness to the town. Several thousand square kilometers north of the town were dug up, but the mines quickly ran dry. The fields of scarred earth and abandoned mining equipment now make up what locals call the rustlands. In order to reach [[Calhun]] from Owl Bank, one must either detour around the rustlands, adding days to their travel, or travel through them, a dangerous prospect. The rustlands are known to be home of bandits, monsters, and local legends tell of hags who wander the wastes, living in the rusted hulks of walking draglines.
+
+To the south of the town, on the side of the river in [[The County of Villnuit]], there are several large farms belonging to people who frequent the town. A villa, once acting as a hunting lodge for the noble [[House Verdige]] lies south of the town as well.
 
 !Archetecture
 The village of Owl Bank is small, and most of it was destroyed during [[The Fall]], the only remaining original archetecture are stone buildings near town centre in the district of South Crossing. These stone buildings are thought to be a simmilar vintage to the lower city of [[Calhun]], and the style of archetecture is quite similar.
@@ -36,15 +40,86 @@ The districts of South Crossing and Northway are contained within wooden pallaca
 
 !Culture
 !!Class
-The class divisions in Owl Bend aren't as pronounced as they are elsewhere in the world. Most eveyone in the small town is quite poor by the standards of places like [[Calhun]] or [[Ada]], however they get along fine due in large part to mutual aid and a strong sense of unity in the village. The richest in town are large farmers who operate south of the river, [[Lord Milligan Westwake]] being the biggest of them. These rich farmers do a lot to prop up the town's economy, and often sell their product elsewhere to bring new wealth into the village.
+The class divisions in Owl Bend aren't as pronounced as they are elsewhere in the world. Most eveyone in the small town is quite poor by the standards of places like [[Calhun]] or [[Ada]], however they get along fine due in large part to mutual aid and a strong sense of unity in the village. The richest in town are large farmers who operate south of the river, [[Lord Milligan Westwake]] being the biggest of them. These rich farmers do a lot to prop up the town's economy, and often sell their product in the towns and villages to the south to bring new wealth into the village.
 
 Despite this, the overall level of wealth in the village remains quite low. It is quite common to find individuals in town bartering for bullets rather than coin, as a box of shells is more readily available than coin, and a bullet is worth around 2z on the market.
 
 !!Leadershiop
 !!Local Ledgends
 
+!!Crime and Punishment
+Prisoners serving a sentance longer than three months will be transfered to prison in Calhun, at the expense of the prisonner.
+
+!!!Misdemenors
+3 months probation to 30f fine, and 3 months jail
+
+* Disorderly Conduct
+* Concealed Weapon
+* Assault
+* Vagrancy
+* Drunkenness
+
+!!!Minor Felonies 
+3 months probation to  2 years prison
+
+*  Theft
+* Trespassing
+* Bribery
+* Aggravated Assault
+* Manslaughter
+* Fraud
+
+!!!Major Felonies 
+90 days probabtion to 20 years prison
+
+* Robbery
+* Assault with a deadly weapon (gun or knife)
+* Arson
+* Attempted Murder
+
+!!!Capital Offences 
+300f fine to hanging
+
+* Murder
+* Armed Robbery
+
+!!!Bounties
+An offended party can place a bounty on the head of a criminal at large who is wanted for a major felony or a capital offence. Bounties are payed after an offender is made to stand trial. Bounties can be set for anything, but common amounts are listed below. Dead bounties are payed at half the listed price. Bounties are set and paid by the offended party.
+
+|!Offence |!Bounty |
+|Major Felony |30f |
+|Capital Offence |300f |
+|Escaped Prisoner |An additional 30f |
+|Any Crime Involving Murder |An additional 100f |
+
+
 !Notable Locations and Landmarks
 !!Landmarks
+*[[Town Hall|Owl Bank - Town Hall]] - The local town hall, with the lord's office and courtroom.
+*[[Sheriff's Office and Jail| Owl Bank - Sheriff's Office and Jail]] - The town's sheriff's office and detention facility, consisting of four cells. Located in Northway.
+*[[Market Square|Owl Bank - Market Square]] - Local farmers and the rare traveling merchant sell their goods in the square outside the town hall in Northway
+*Church 1
+*Church 2
+
 !!Buisnesses
+*[[The Unturned Stone|Owl Bank - The Untunred Stone]] - The local inn and alehouse, located in the South Crossing district
+*[[Great Grey Gunworks|Owl Bank - Great Grey Gunworks]] - Local gunsmith
+*Blacksmith
+*General store
+*Doctor and pharmacy
+
+!Inhabitants
+* [[Lord Milligan Westwake]]
+* sheriff
+* deputy
+* priest 1
+* priest 2
+* market organizer
+* bartender
+* gunsmith
+* blacksmith
+* general store owner
+* doctor
 
 
+,,[[.|Owl Bank GM Notes]],,
