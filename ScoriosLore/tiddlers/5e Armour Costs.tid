@@ -1,6 +1,6 @@
 created: 20210415190119588
 creator: admin
-modified: 20210415210014148
+modified: 20211026183646981
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Armour Costs
@@ -37,6 +37,18 @@ type: text/vnd.tiddlywiki
 |Special Response Armour |80f |Steampunk Compendium |
 |Land Warrior Armour |150f |Steampunk Compendium |
 |Forced Entry Unit |415f |Steampunk Compendium |
+
+![[Powered Armour]] (Steampunk Compendium)
+|!Name |!Cost |
+|Base Cost |15,000f |
+|Options |<|
+| Attached Weapons|350f |
+| Rebreather|500f |
+| Regenerative Injectors|800f |
+| Regenerative Serum|66f 2v (ea.) - 200f (3) |
+| Stasis|1,000f |
+|Battery |230f |
+
 
 !Sheilds
 |!Name |!Cost |!Source |

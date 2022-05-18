@@ -1,0 +1,18 @@
+created: 20211025183916168
+creator: admin
+modified: 20220417101132791
+modifier: admin
+tags: Things
+title: Stirling Control
+type: text/vnd.tiddlywiki
+
+!Description
+A Stirling Control is a magic item that was designed primarily to allow [[Humans]] and other non-[[magical|Magic]] beings to operate [[Stirling engines|Engines]]. They are capable of changing the heat gradient in the engine to change its speed, and also capable of starting a stopped stirling engine a limited number of times per day. They used to be significantly more common during [[The Age of Light]], but the methods of producing them were lost during [[The Fall]], and the supply has decreased over the following centuries.
+
+A stirling control is a box with three levers protruding from it. They are often integrated into the mechanics of the vehicle they are designed for, but there are modular versions available. Two of the levers control the engine hot and cold plates, and the third when pulled returns to its neutral position and starts the engine.
+
+!Rules
+!!5e
+//Wonderous Item, Uncommon//
+
+Must be placed on an engine for the entirety of a long rest to attune to it. Has 5 charges to start the engine, regains 1d4 charges on a long rest. Allows the user to control the attuned engine even if they are incapable of casting magic.

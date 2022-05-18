@@ -1,0 +1,53 @@
+created: 20220304180315702
+creator: admin
+modified: 20220304193418399
+modifier: admin
+tags: [[OOG Resources]]
+title: 5e Addiction Rules
+type: text/vnd.tiddlywiki
+
+!Addictive Substances
+After a creature ingests an addictive substance, they have to make an immediate Constitution saving throw or become addicted. The DC for this depends on the substance and is listed in the substance description.
+
+If the creature succeeds in their saving throw, they are not addicted. The effects of the substance take place as stated in the description. They need to make the save again if they take the substance again.
+
+Unless it states otherwise in the substance description, creatures that are immune to the poisoned condition cannot become addicted. Creatures that have resistance to poison or vulnerability to poison roll their addiction saves with advantage and disadvantage, respectively.
+
+If the creature fails their saving throw, they become addicted to the substance and special rules apply.
+
+Addictive substances have a Constitution save DC and an addiction dice number. The higher the DC, the likelier someone is to get addicted in the first place. The higher the number of addiction dice, the harder it is to break the habit.
+
+!!Breaking Addiction
+The description for each addictive substance lists a number of ‘addiction dice’. These come into play if an addict wants to kick their habit of using the substance. The addiction dice, which are always d4s, determine how hard it is to go cold turkey. Greater Restoration will reduce an addict's addiction dice by one.
+
+!!Withdrawal
+An addict can go for (20 - a roll of all addiction dice + con mod)/2 days without a hit before suffering withdrawal. eg: a con 16 character stops taking a drug with 4 addiction dice. they can go (20-4d4+2)/2 days without suffering withdrawal. if he rolls 9 on his 4d4, he can go (20-9+2)/2 days, so 6 and a half days.
+
+After that duration has passed, the addict must make a Constitution saving throw against the drug's addiction dc every day. The addiction dice are also rolled and subtracted from the creature's save result. 
+
+If a creature succeeds, they loose one addiction dice and repeat the process the next day. If they succeed when they only have 1 addiction dice remaining, they are no longer addicted.
+
+As before, addicts that have resistance to poison or vulnerability to poison roll their addiction saves with advantage and disadvantage, respectively.
+
+!!Withdrawal Levels
+If an addict fails one of these saves, then they gain a level of withdrawal and the next day must roll their Constitution saving throw with the same number of addiction dice. There are six levels of withdrawl, detailed in the chart below. As with levels of exhaustion, levels of withdrawal are cumulative.
+
+If a character succeeds in breaking their addiction, their withdrawal level decreases by one for every completed long rest. A greater restoration spell will remove two levels of withdrawal.
+
+!!!Withdrawal
+|!Level |!Effect |
+|1 |Addict can no longer take short rests. |
+|2 |Addict has disadvantage on all ability checks |
+|3 |Addict has disadvantage on attack rolls and saving throws (does not apply to the saving throw to break free from the addiction). One physical and one mental ability score, each randomly chosen, lose 1d4 points. |
+|4 |Addict's long rests have a 50 percent chance of failure. One physical and one mental ability score, each randomly chosen, lose 1d4 points. |
+|5 |Addict acquires an indefinite madness (p. 259 of the DMG). One physical and one mental ability score, each randomly chosen, lose 1d4 points. |
+|6 |Addict dies |
+
+On the event that a character’s save roll is negative, then that character falls off the wagon and must acquire a new hit of their addictive substance within a day or gain two withdrawal levels.
+
+!!Relapse
+If an addict ingests the substance they're addicted to, any withdrawal levels they've aquired are eliminated. They must make an addiction save against the substance's addiction at disadvantage, or regain all lost addiction dice.
+
+An addict who has successfully kicked the habit who uses a substance they were previously addicted to makes their addiction save at disadvantage. This condition can be removed with a greater restoration spell.
+
+,,adapted from https://www.gmbinder.com/share/-LQ6dWvF_1RSH1QucVi1,,

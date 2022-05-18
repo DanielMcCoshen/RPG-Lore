@@ -1,0 +1,17 @@
+created: 20220304194905686
+creator: admin
+modified: 20220304200154922
+modifier: admin
+tags: Things
+title: Cocaine
+type: text/vnd.tiddlywiki
+
+//[[Attictive Substance|5e Addiction Rules]], Common.//
+
+''Effects:'' For one hour after taking cocaine, a creature has advantage on all skill checks and attack rolls involving dexterity and advantage on initiative rolls. They also have disadvantage on skill checks invilving wisdom and charisma.
+
+''Side Effects:'' After the effects wear off, the user gains one level of exaustion. This timer can be reset by taking another dose, but when the user does come down, they will gain all levels of exaustion deffered in this way.
+
+''Addiction DC:'' 12
+
+''Addiction Dice:'' 2d4

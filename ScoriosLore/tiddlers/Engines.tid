@@ -1,6 +1,6 @@
 created: 20210421172808767
 creator: admin
-modified: 20210422165358635
+modified: 20211026163640888
 modifier: admin
 tags: Things
 title: Engines
@@ -9,7 +9,17 @@ type: text/vnd.tiddlywiki
 Several types of engine are available in [[The Realm of Edion]]
 
 !!Stirling Engines
-Magically driven [[stirling engines|https://en.wikipedia.org/wiki/Stirling_engine]] were common engines in the last several centuries ot [[The Age of Light]]. One plate would be phased into [[The Plane of Destruction]] to heat it and one phased into [[The Plane of Alteration]] to cool it. This sort of engine did not require fuel to run. The speed of a stirling engine must be adjusted by magically manipulating the area of the chambers in contact with the other planes, something that can be done through a magic item by a [[Human|Humans]], but not to the degree of control of someone capable of [[Magic]]. 
+Magically driven [[stirling engines|https://en.wikipedia.org/wiki/Stirling_engine]] were common engines in the last several centuries of [[The Age of Light]]. One plate would be phased into [[The Plane of Destruction]] to heat it and one phased into [[The Plane of Alteration]] to cool it. This sort of engine does not require fuel to run. The speed of a stirling engine must be adjusted by magically manipulating the area of the chambers in contact with the other planes, something that can be done through a [[magic item|Stirling Control]] by a [[Human|Humans]], but not to the degree of control of someone capable of [[Magic]]. 
+
+Starting a Stirling engine requires an initial infustion of magical energy, either from someone capable of Magic, or from a [[Stirling Control]] device. ,,(5e: one spell slot of any level is consumed to start the engine),, The engine takes some time to spin up it's flywheel before it can be engaged. For small engines, this spin-up time is only a couple seconds, but larger engines usually require the flywheel to be initially cranked by hand before the engine takes over.
+
+Stirling Engines cease to function if punctured, and if jammed in the heating portion of their cycle risk explosion.
 
 !!Steam Engines
-[[Steam engines|https://en.wikipedia.org/wiki/Steam_engine]] were invented before the stirling engine during the Age of Light, but were superceided by it. They have however made a comeback since [[The Fall]]. They are more dangerous than a stirling engine to operate, but have no magical components to them.
+[[Steam engines|https://en.wikipedia.org/wiki/Steam_engine]] were invented before the stirling engine during the Age of Light, but were superceided by it. They have however made a comeback since [[The Fall]]. They are more dangerous than a stirling engine to operate, but have no magical components to them, making them far more available than their magical counterparts.
+
+Starting a steam engine is an intensive process. A fire must be built under the boiler, and the boiler heated untill it preasurises. Starting a small [[car|Cars]]-sized engine from cold takes roughly half an hour, but larger steam engines, such as those used in [[Tanks]], [[Airships]], and Locomotives take about 4 hours to start. If the engine was used in the previous day, the residual heat halves start-up time.
+
+Engine start up can be rushed, but doing so risks damage to the engine. ,,(roll 1d100 vs % of start up time reduced. ex: must roll higher than 25% to start a 4 hour engine in 3 hours),,
+
+Steam engines will vent clouds of hot steam and risk explosion if damaged.
