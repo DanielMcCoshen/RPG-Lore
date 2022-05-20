@@ -1,6 +1,6 @@
 created: 20220519192938147
 creator: admin
-modified: 20220519233540443
+modified: 20220520030137701
 modifier: admin
 tags: [[OOG Resources]]
 title: Renown and Reputation
@@ -50,12 +50,12 @@ In places that are civilized, and just about everywhere else, people know who yo
 You are not just some name anymore, you're an icon. Armies begin to rise with or against you, and your voice alone is enough to influence an incredible amount of people. Your name will be permanently engraved in the history books. The things people believe you've done might not even be things you've done at this point, but your legend is no longer in your control. You've become as much a character to the world as you are a person. Many may not even believe you exist, and proving you are who you are may take some real demonstrations of skill.
 
 !Adoration and Fear
-longside your renown you have trust. You calculate how much a region trusts you by subtracting the lower of your two renown values form the higher. If your positive renown is higher the region trusts you, and if the negative renown is higher the region distrusts you.
+Alongside your renown you have trust. You calculate how much a region trusts you by subtracting the lower of your two renown values form the higher. If your positive renown is higher the region trusts you, and if the negative renown is higher the region distrusts you.
 
 For example: If you had 78 positive renown, and 30 negative renown, you have a total of 48 trust in that region. The more trust/distrust you have, the better/worse people think of you. People will treat you differently depending on how much they do or do not trust you. How they treat you will be detailed later in this article.
 
 !!Reputation
-|!Public Image |Trust/Distrust |
+|!Public Image |!Trust/Distrust |
 |Neutral |0 |
 |Trusted/Suspicious |25 |
 |Welcomed/Hated |50 |
