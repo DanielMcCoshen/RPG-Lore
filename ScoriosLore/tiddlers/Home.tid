@@ -1,6 +1,6 @@
 created: 20220520182441302
 creator: admin
-modified: 20220520194139541
+modified: 20220520201623678
 modifier: admin
 tags: [[OOG Resources]]
 title: Home
@@ -25,6 +25,6 @@ Current campaings are set in either [[Owl Bank]] or [[Calhun]]. Both are within 
 
 I welcome and encourage player contribution to the lore. If you want to flesh out the god you worship more, or your home town, or even have a hankering to write some minor historical figures, you have the power to do so!
 
-If you wish to contribute to the lore, talk to Dan for access to the github repo. There are <$count filter="[all[tiddlers]]"/> total articles, <$count filter="[all[missing]]"/> articles needing to be written, and <$count filter="[tag[Needs Work]]"/> articles tagged as needing work. Missing articles and articles needing work can be found from the "More" tab of the sidebar.
+If you wish to contribute to the lore, talk to Dan for access to the github repo. There are <$count filter="[all[tiddlers]!is[system]!is[image]]"/> total articles, <$count filter="[all[missing]]"/> [[articles needing to be written|Missing Articles]], and <$count filter="[tag[Needs Work]]"/> articles tagged as [[needing work|Needs Work]].
 
 Contributions are subject to approval by Dan, but I'm not sticky about it, I just want to maintain consistency

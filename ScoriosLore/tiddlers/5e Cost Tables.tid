@@ -1,12 +1,12 @@
 created: 20210415185202344
 creator: admin
-modified: 20220417100730984
+modified: 20220520194806937
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Cost Tables
 type: text/vnd.tiddlywiki
 
-Costs in these tables have been rounded to nice numbers where relevant, with mixed rounding up and down to provide some "realism"
+Costs in these tables have been redone to use [[Durekian Currency]] and rounded to nice numbers where relevant, with mixed rounding up and down to provide some "realism". For any missed gold costs, divide by 10 to get foot cost. if it's not nice, ie 15 gold, take 1 velik or 2 veliks dependant on the 
 
 * [[Armour|5e Armour Costs]]
 * [[Weapons|5e Weapon Costs]]
@@ -17,3 +17,4 @@ Costs in these tables have been rounded to nice numbers where relevant, with mix
 * [[Adventruing Gear|5e Adventuring Gear Costs]]
 * [[Animals|5e Animal Costs]]
 * [[Vehicles|5e Vehicles Costs]]
+* [[Spell Components|5e Spell Component Costs]]
