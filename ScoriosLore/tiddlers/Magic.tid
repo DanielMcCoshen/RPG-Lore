@@ -1,6 +1,6 @@
 created: 20200310195945500
 creator: admin
-modified: 20220516022634912
+modified: 20220519235304218
 modifier: admin
 tags: Magic
 title: Magic
@@ -9,13 +9,30 @@ type: text/vnd.tiddlywiki
 Magic is a force that comes from the foundational [[planes|The Planes]] of existance. [[Elves]] are capable of sensing this force and shaping it with their will in order to produce supernatural effects. [[Humans]] and [[Dwarves]] are incapable of sensing the flow of magic, and can not cast magic. The energy of all magic originates from the [[Void|The Void]], the plane of pure magical energy. This energy is too much for an individual to handle directly, and those who attempt are often killed or dirven mad by it. However the rumours of rare individuals who are somehow capable of harnising pure void energy keep researchers trying.
 
 !!Attunements
-Magic is devided first by the three planes that it comes from, the foundational planes of [[Creation|The Plane of Creation]], [[Alteration|The Plane of Alteration]], and [[Destruction|The Plane of Destruction]]. The magic of each of these three planes is then devided by three again, into Attunements, sometimes also refered to as Schools of Magic or Spheres of Magic. Each Plane has a core attunement, one that is central to what it is. Destruction is fire, Creation is Earth, and Alteration is Water. Each also has two border attunements, places within the plane where its energy mingles with that of the other foundational planes. These attunements must be accessed by first attuning onself to the foundational plane, and then to the specific attunement within the plane.
+Magic is devided first by the three planes that it comes from, the foundational planes of [[Creation|The Plane of Creation]], [[Alteration|The Plane of Alteration]], and [[Destruction|The Plane of Destruction]]. The magic of each of these three planes is then devided by three again, into Attunements, sometimes also refered to as Schools of Magic or Spheres of Magic. Each Plane has a core attunement, one that is central to what it is. Destruction is fire, Creation is Earth, and Alteration is Water. Each also has two border attunements, places within the plane where its energy mingles with that of the other foundational planes. These attunements must be accessed by first attuning onself to the foundational plane, and then to the specific attunement within the plane. Attunements are access points to the planes in question through which magic is drawn into the soul of the caster
 
 !!Patrons
-A stong supernatual being, usually a [[god|Deities]], powerful [[Fae]], or [[Dæmon|Dæmons]], can grant the ability to cross attune a border attunement to a different plane. This changes the way that the border attunement behaves. The boarder that can be cross-attuned is granted by the patron, and the person taking advantage of this can then attune that boarder to any foundational plane that they have an attuement with. For example, attuning healing to destruction grants the ability to consume the energy from the target, causing the same harm to them that the healing spell would normaly cure.
+A stong supernatual being, usually a [[god|Deities]], powerful [[Fae]], or [[Dæmon|Dæmons]], can grant the ability to cross attune a border attunement to a different plane. This changes the way that the border attunement behaves. A patron can hook into your attunements and push magic from anywhere they can reach through it. Having a patron is allowing them access to your very soul, and therefore is risky. 
 
 !!Divine magic
 Those that have devoted themselves to a particular [[god|Deities]] are granted attunment to [[Divine|Divine Attunement]] magic. Divine magic is magic that is pulled directly from the god in question through one of the foundational planes to be used. It can be channeled through any foundational plane that the caster has attunement to, and its effects change depending on witch plane it is channeled throguh. 
 
 !!Diagram
 [img[Magic_Diagram.png]]
+
+!!Casting Methodology
+Magic as it travels is "filtered" by the path it takes, changing it's effects.  First by the plane it's drawn through, and is then optionally filtered by an attunement, a connection point trained by a mage to it's associated plane. Trying to cross-attune without a patron just does nothing, you can't reach that far.
+
+The caster then filters the magic more by passing it around their body and mind, often contorting themselves into arcane gestures and positions, the sommantic componet of the spell, and vocalizing ancient and arcane words, the verbal components of the spell to do so. They then route it out of their body towards the target.
+
+Wood conducts Magic, allowing for control of it through things such wands or staves. Different woods again filter the magic, changing it ever so slightly. Some people pick a favourite wood, others have several available. Charcoal will conduct magic purely without changing it. Other materials can filter the magic too, leaving their mark on the magic that passed through them. These material components of spells are often used in small quantities, and sometimes burnt up by the magic.
+
+!!!Rituals
+Once the magic leaves your body you don't have control over where it goes, so your better have damn well set up any complex paths beforehand, like ritual circles. Most of rituals consists of setting up (a) complex path(s) and layers of material filters for magic to take between the caster and the target, ensuring it to be right, and then casting through the ritual apparatus. Complex rituals require multiple paths and often multiple casts.
+
+!!!Spellshots
+Spellshots, gunslingers who cast magic through thier weapons, have inlayed their guns with wooden strips, often charcoal, to conduct the magic from the caster to the bullet. On the bullet they have drawn a network of fine symbols in various inks to further filter the spell, and to contain it within the bullet. The spell consumes the lead of the bullet, and lasts until the network of ink breaks, when it is released from the tip as though it were cast from it. Points of failure can be added to the network to control how the spell dissapates if it does not hit a target before the network burns out, explosively or harmlessly. Material components are either imbedded in a chamber drilled into the lead or added as emulsions in the ink. Spells without special component needs can be used in generic bullets, but not all can be.
+
+Bullets painted by hand in the field last for about a second before they burn out, ones manufactured with better tolerances and favourable conditions can last longer, up to 10 seconds. Creating permanent spell bullets is a very complex spell to put an extra shell of magic protection around the active spell bullet to protect and reinforce the containment network. Permanent spell bullets are very difficult and expensive to make, and haven't been mass-produced since the [[The Fall]]. They can still be set off by a strong accidental impact though, and are often stored in specially-made crush-resistant cases becaue of this
+
+Timing your cast and shot is very important as a spellshot
