@@ -1,0 +1,25 @@
+created: 20220519174339451
+creator: admin
+modified: 20220519174528611
+modifier: admin
+tags: Things
+title: Timmask
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Inhaled, Rare//
+
+Known as 'devil's mushroom', a timmask is a 2-foot-tall toadstool with orange and red stripes across its beige cap. Uprooting or destroying a timmask causes it to expel a 15-foot-radius cloud of poisonous spores. Creatures in the area must succeed on a DC 14 Constitution saving throw or be poisoned. While poisoned in this way, a creature is under the effect of a confusion spell with a duration of 1 minute. When the spell effect ends, the poisoned condition ends.
+
+When carefully prepared, however, the spores can be made into a fine dust that can be snorted to deliver a milder, and unfortunatelly addictive, effect.
+
+''Effects:'' Snorting timmask engulfs the user in a wave of intense hallucinations. For a number of minutes equal to 1d4 multiplied by (8 minus the user's CON modifier), they have disadvantage on all saving throws and attacks and automatically fail all ability score checks.
+
+''Side Effects:'' The visions the inhaler of timmask has can be overwhelming, even terrifying. There is a 50 percent chance that the user will have to make a DC 14 Constitution saving throw or be frightened for one minute longer than the duration of the initial effects.
+
+''Overdose Effects:'' If more than one dose of timmask is inhaled in a 12-hour period, the user must make the side effect saving throw to avoid being frightened.
+
+''Addict Effects:'' When taken by someone addicted to timmask, the duration of the initial effects are doubled.
+
+''Addiction DC:'' 14
+
+''Addiction Dice:'' 2d4

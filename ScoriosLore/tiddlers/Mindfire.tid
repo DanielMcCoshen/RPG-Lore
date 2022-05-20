@@ -1,0 +1,27 @@
+created: 20220518231438782
+creator: admin
+modified: 20220518231603584
+modifier: admin
+tags: Things
+title: Mindfire
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Injury, Rare//
+
+Wild fireclover is a summer plant with a brilliant red and orange flower that blooms in temperate plains and farmland. The unmistakable red blooms of fireclover are usually found in small clusters of three to ten. The petals of wild fireclover are often crushed and used by peasants to provide pleasant scents. Crushed petals provide a beautiful aroma for up to a tenday.
+
+What is not commonly known is that the stem of the wild fireclover is capable of producing a powerful mind-clouding drug. When applied directly to the bloodstream (as through an open wound), mindfire leaves its users disoriented, confused, weak of will, and utterly happy.
+
+''Effects:'' After a dose of mindfire is taken, the drug immediately clouds the mind and befuddles the senses. For a period of minutes equal to 1d8 multiplied by (10 minus the user's CON modifier), the user has disadvantage on all Intelligence, Wisdom, and Charisma saving throws and checks, and in order to case a spell, the user must succeed on a DC 12 Constitution check.
+
+''Secondary Effects:'' The user must make a DC 10 Constitution saving throw. On a failure, for a number of minutes equal to 1d8 multiplied by (10 minus the user's CON modifier), the user experiences a state of perfect contentment with the world. They can engage in no aggressive actions and will use force only to defend themselves.
+
+''Side Effects:'' Once both the initial and secondary effects have worn off, the user must make a DC 5 Constitution saving throw or acquire a short-term madness.
+
+''Overdose Effects:''  Taking mindfire more than once in a 6 hour period initial and secondary effects are twice as long and the DC to avoid the side effect increases to 10.
+
+''Addict Effects:'' When taken by someone who is addicted to mindfire, the initial and secondary effects are of half duration and the relevant DCs increase by 2.
+
+''Addiction DC:'' 12
+
+''Addiction Dice:'' 2d4

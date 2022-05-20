@@ -1,0 +1,23 @@
+created: 20220519191312494
+creator: admin
+modified: 20220519191453113
+modifier: admin
+tags: Things
+title: Truth Serum
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Very Rare//
+
+This foul-tasting elixir is a concentrated form of [[Truth Wine]].
+
+''Effects:'' After taking truth serum, the drinker must succeed on a DC 11 Constitution saving throw or be poisoned for a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier).
+
+''Secondary Effects:'' The drinker must make a DC 15 Charisma saving throw. On a failure, they cannot knowingly speak a lie, as if under the effect of a zone of truth spell. This lasts a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Overdose Effects:'' If more than one dose of truth serum is ingested in a 24-hour period, the user must succeed on a DC 15 Constitution saving throw or be knocked unconscious for 1d4+1 hours. On a successful save, the user is instead poisoned for 1d4+1 hours.
+
+''Addict Effects:'' When taken by someone addicted to truth serum, the DCs for all the above saving throws increase by 2.
+
+''Addiction DC:'' 5
+
+''Addiction Dice:'' 1d4

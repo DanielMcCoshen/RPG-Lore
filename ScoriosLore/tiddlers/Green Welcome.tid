@@ -1,0 +1,23 @@
+created: 20220518220011137
+creator: admin
+modified: 20220518220203266
+modifier: admin
+tags: Things
+title: Green Welcome
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Rare//
+
+Green welcome is a highly addictive chemical resembling grayish-green mucus.
+
+''Effects:'' Anyone exposed to green welcome must make a DC 14 Constitution saving throw. On a failure, they lose 1d4 points of Intelligence and 1d4 points of Wisdom. After a number of minutes equal to 1d6 multiplied by (8 minus the user's CON modifier), the lost ability score points return at a rate of 1 point every round.
+
+''Secondary Effects:'' Green welcome fills the user with a feeling of strength, contentment, and belonging. For a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier), the user's Strength and Charisma are temporarily enhanced by 1d4+1 points (to a maximum of 20). Additionally, the user believes they have succeeded on all saving throws.
+
+''Overdose Effects:''  If more than one dose of green welcome is taken in a 24-hour period, the user falls unconscious for 1d4 hours and suffers 1 point of permanent Wisdom damage.
+
+''Addict Effects:'' When taken by someone who is addicted to green welcome, there is a 50 percent chance that the enhancement bonus from the secondary effects will not occur and a 50 percent chance that the user will permanently believe that they have succeeded in all their saving throws.
+
+''Addiction DC:'' 14
+
+''Addiction Dice:'' 2d4

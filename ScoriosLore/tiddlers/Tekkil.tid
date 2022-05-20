@@ -1,0 +1,27 @@
+created: 20220519165416642
+creator: admin
+modified: 20220519165544390
+modifier: admin
+tags: Things
+title: Tekkil
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Contact, Uncommon//
+
+The fat red leaf of this swamp plant is unnaturally cool to the touch and exudes a sticky sap that is extremely hard to wash off. When placed on top of or wrapped around a painful or wounded body part, it has a powerful analgesic effect, quickly numbing the area so long as the leaf remains in contact with the skin there.
+
+Unfortunately, this effect is far from without complications. Tekkil addicts tend to deliberately overdose on the leaf in order to reach ever more powerful highs.
+
+''Effects:'' Almost as soon as the tekkil leaf is applied to a part of the body, that part becomes utterly pain-free.
+
+''Secondary Effects:'' The partial numbness results in off-kilter, lilting movement. The wearer has disadvantage on all Dexterity checks and saving throws and moves at half speed. This clumsiness lasts until the leaf is removed.
+
+''Overdose Effects:'' If a leaf is left on the body for more than 1d8 minutes multiplied by (10 plus the user's CON modifier), then the wearer must make a Constitution saving throw or pass into a pleasurable stupor, as if under the effect of a slow spell. This lasts until the wearer no longer has any leaves on them and then additionally for a number of minutes equal to 5d4 minus the user's CON modifier.
+
+If more than one tekkel leaf is on the body, the toxin that causes the stupor enters the system more quickly. The amounts of time each leaf is on the body are added together to determine if an overdose situation takes place.
+
+''Addict Effects:'' When taken by someone who is addicted to tekkil leaves, the overdose condition has to already have taken place for the initial effects to begin, and once the addict's body is no longer in contact with any tekkil leaves, the overdose condition lasts twice as long.
+
+''Addiction DC:'' 8
+
+''Addiction Dice:'' 5d4

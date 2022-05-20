@@ -1,0 +1,23 @@
+created: 20220518232416644
+creator: admin
+modified: 20220518232554524
+modifier: admin
+tags: Things
+title: Musroom Blue
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Inhaled, Rare//
+
+Mushroom blue is a powder made from a rare, blue-gray fungus found in caves. When dried and pulverized, the powder has a bright, electric blue color and a sticky, chalky consistency. Mushroom blue is taken by snorting it and is popular mainly among mages who find that the benefits it offers to their spellcasting make up for the rather unpleasant side effects.
+
+''Effects:'' Upon inhaling a dose of mushroom blue, the user experiences a rush of self-confidence, even arrogance as every memory and perception and thought that passes through their minds seems uncannily vivid and complex. For a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier), the user's Intelligence and Charisma are increased by 2.
+
+''Secondary Effects:'' Mushroom blue does not just hone the intellect. It also acts as an hallucinogen, producing confusing perceptual effects that even habitual users of the drug find very difficult to distinguish from reality. For a number of minutes equal to 1d8 multiplied by (10 minus the user's CON bonus), the user's Wisdom decreases by 2 and has disadvantage on all saves versus illusions.
+
+''Overdose Effects:''  Taking mushroom blue more than once in an 8 hour period prevents the initial effects from taking place again for 24 hours. Additionally, the user must make a DC 15 Constitution saving throw. On a failure, the user becomes highly aggressive and is affected as though by the confusion spell.
+
+''Addict Effects:'' When taken by someone who is addicted to mushroom blue, the initial and secondary effects are of half duration.
+
+''Addiction DC:'' 12
+
+''Addiction Dice:'' 3d4

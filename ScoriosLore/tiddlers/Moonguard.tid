@@ -1,0 +1,27 @@
+created: 20220518215133418
+creator: admin
+modified: 20220518215806339
+modifier: admin
+tags: Things
+title: Moonguard
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Injury, Very Rare//
+
+Not many outside of [[The Dwarven Kingdoms]] know how to make moonguard and the [[gnome|Gnomes]] who first introduced it quickly became fabulously wealthy dealing it. A few other sources have sprung up here and there since then, and there is no longer a monopoly on trade in the substance, though it is still fantastically expensive. Those who need it, however, will pay any price, for it can mean the difference between life and death for them and their loved ones. It is a pale, silver liquid that must be introduced directly into the bloodstream. When taken by a normal individual, there are very few effects, mostly a vague and not entirely pleasant tingling throughout the body. But when taken by a lycanthrope, the effects are dramatic, incredible, even, for a lycanthrope being treated with moonguard cannot change shape, either willingly or unwillingly, into their hybrid or their creature form.
+
+Moonguard has no effect on other transformations, such as being affected by the polymorph spell or consuming a dose of wurple.
+
+''Effects:'' For a number of days equal to 1d4 multiplied by (10 minus the user's CON modifier), a person who has taken a dose of moonguard is immune to lycanthropy. If bitten by a lycanthrope, they cannot catch the condition, and if already a lycanthrope, they cannot transform.
+
+A lycanthrope being treated with this medicine can tell when it is wearing off: about three days before the end of the initial effects, they feel its power beginning to wane inside them.
+
+''Side Effects:'' For a number of hours equal to 1d6 multiplied by (10 minus the user's CON modifier), anyone taking moonguard feels a distracting tingling throughout their body. This sensation interferes with their daily activities, making short rests impossible and imposing disadvantage on all Dexterity checks.
+
+''Overdose Effects:''  If more than one dose of moonguard is taken in a 15 day period, the side effects last for a number of hours equal to 3d6 mutliplied by (10 minus the user's CON modifier).
+
+''Addict Effects:'' Moonguard has very distressing addiction effects. If a lycanthrope is addicted to this medicine, then they dare not stop taking it, for if a lycanthrope with any withdrawal levels from ceasing use of moonguard transforms, they must succeed on a DC 15 Constitution save in order to change back into their humanoid form.
+
+''Addiction DC:'' 10. Moonguard is addictive only to lycanthropes and withdrawal begins after (25 minus 3d4) days.
+
+''Addiction Dice:'' 3d4

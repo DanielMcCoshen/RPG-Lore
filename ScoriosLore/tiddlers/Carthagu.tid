@@ -1,0 +1,25 @@
+created: 20220518203501947
+creator: admin
+modified: 20220518203709394
+modifier: admin
+tags: Things
+title: Carthagu
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Common//
+
+When leaves from the carthagu plant are dried and then steeped in boiling water for a few minutes they make is a thin, green tea with mild medicinal use. It has a calming, relaxing effect on casual drinkers and is part of many home remedies for a variety of ailments.
+
+''Effects:'' The drinker experiences a wave of calm, peaceful relaxation wash over them. Treat as though the calm emotions spell has been successfully cast on them. Additionally, the user is immune to the confusion spell and all similar disorientations. These effects last for a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Secondary Effects:'' The user's Strength and Dexterity decrease by 1d4-1 points for a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Side Effects:''  After a person drinks carthagu they are often suggestible and even a bit meek. For a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier) after drinking a cup, the user has disadvantage on all saving throws against hypnotism, charms, suggestions, and the like. Additionally, the user will not engage with an enemy unless attacked first unless they make a DC 10 Charisma saving throw. Barbarians who drink carthagu cannot rage during this period.
+
+''Overdose Effects:'' If more than one cup of carthagu is drunk within a 6 hour period, the drinker must make a Constitution save (DC 10) or fall asleep for a number of hours equal to 1d8 minus the drinker's CON modifier.
+
+''Addict Effects:'' When taken by someone who is addicted to carthagu, the initial and secondary effects are of half duration.
+
+''Addiction DC:'' 5
+
+''Addiction Dice:'' 5d4

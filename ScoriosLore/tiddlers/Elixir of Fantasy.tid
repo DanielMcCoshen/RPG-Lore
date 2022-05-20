@@ -1,0 +1,25 @@
+created: 20220518213649949
+creator: admin
+modified: 20220518213908302
+modifier: admin
+tags: Things
+title: Elixir of Fantasy
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Common//
+
+Made from the distillate of a lichen native to [[The Dwarven Kingdoms]], elixir of fantasy is a powerful hallucinogen that makes drinkers believe they are other people. It is used by some mystics and cults as part of rituals.
+
+Habitual users typically develop elaborate fantasy lives that they visit over and over in exhaustive detail, sometimes retreating into permanent madness as they come to believe their hallucinatory lives are more real than their real ones.
+
+''Effects:'' The drinker retreats into a dreamlike state, lost in their own fantasies for a number of hours equal to 1d4 multiplied by (8 minus the user's CON modifier). During this time, they have disadvantage on all saving throws and attacks and automatically fail all ability score checks.
+
+''Secondary Effects:'' The drinker's Wisdom score is decreased by 1d4 points for a number of hours equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Side Effects:''  Every time someone takes the elixir of fantasy, there is a 1 percent chance that they will never leave the hallucinatory state. In these cases, only a greater restoration spell can bring the drinker back to reality.
+
+''Addict Effects:'' When taken by someone who is addicted to elixir of fantasy, the initial and secondary effects are of half duration and the chance of the side effect occurring increases to 3 percent.
+
+''Addiction DC:'' 8
+
+''Addiction Dice:'' 1d4

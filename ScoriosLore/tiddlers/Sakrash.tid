@@ -1,0 +1,25 @@
+created: 20220519152949662
+creator: admin
+modified: 20220519153658617
+modifier: admin
+tags: Things
+title: Sakrash
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Uncommon//
+
+This sweet, oily concoction of wines, rare tree saps, and certain herbs is only manufactured in [[Ardos|The Kingdom of Ardos]]. It protects the user's mind and thoughts.
+
+''Effects:'' Sakrash has an immediate effect of dazzling and confusing the drinker. For a number of rounds equal to 1d4 multiplied by (8 multiplied by the user's CON modifier), the drinker cannot take any actions other than move actions and moves at half speed.
+
+''Secondary Effects:'' After the initial effects have worn off, the drinker feels a wave of weird silence come over their thoughts. For a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier), the drinker's thoughts cannot be read by any means. All attempts to communicate telepathically with the drinker fail. Their emotions are impossible to magically alter (e.g., through fear effects). Spells such as zone of truth and modify memory have no effect on them.
+
+''Side Effects:'' Due to unnatural quiet inside the drinker's mind, there is a significant danger of falling into solipsism. Unless the drinker succeeds on a DC 12 Wisdom saving throw, they become convinced that they are the only creature with genuine consciousness, that all other apparently intelligent beings are like automata or empty shells, devoid of individuality or thought. Convinced that they are effectively the only real thinking being in existence, they lose all inhibitions. Harming them is as morally unproblematic as hurting a rock or an ocean. Once the secondary effects wear off and the regular background noise of other minds comes back, a further DC 12 Wisdom save is necessary. On a failure, the drinker passes into unconsciousness due to shock for 1d4 hours.
+
+''Overdose Effects:''  If more than one dose of sakrash is drunk within a 6 hour period, the drinker takes 1d4+1 points of Wisdom damage. This damage goes away after the drinker finishes a long rest.
+
+''Addict Effects:'' When taken by someone who is addicted to sakrash, the initial and secondary effects are of double duration and the save DC to avoid the side effects increases to 15.
+
+''Addiction DC:'' 10
+
+''Addiction Dice:'' 4d4

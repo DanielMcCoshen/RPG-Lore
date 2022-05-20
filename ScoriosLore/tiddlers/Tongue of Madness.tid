@@ -1,0 +1,25 @@
+created: 20220519180333715
+creator: admin
+modified: 20220519180443066
+modifier: admin
+tags: Things
+title: Tongue of Madness
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Rare//
+
+The tongue of madness is a mushroom that looks like a large human tongue. Although it is edible, it holds no nutritional value. A creature that eats this fungus must succeed on a DC 12 Constitution saving throw or compulsively speak aloud every thought for the next hour. The effect can be ended by a lesser restoration spell or similar magic
+
+When dried and turned into a tea, it has a weaker effect that is both pleasurable and mildly addictive.
+
+''Effects:'' Consuming a cup of tongue of madness tea has a strong relaxing effect. All the stresses and tenseness that the drinker's body has accumulated over the course of the day melt away and all problems seem surmountable and of small import. For a number of minutes equal to 1d12 multipled by (8 minus the user's CON modifier), treat the drinker as though the calm emotions spell has been successfully cast on them. Additionally, they are immune to the confusion spell and all similar disorientations.
+
+''Side Effects:'' Tongue of madness drinkers can become absent-minded and forgetful. For a number of minutes equal to 1d12 multipled by (10 minus the user's CON modifier), they have disadvantage on all Intelligence and Wisdom saving throws and checks and there is a 25 percent chance that they will misremember significant details of what occurred during the initial effects.
+
+''Overdose Effects:'' If more than one cup of tongue of madness is drunk in a 12-hour period, the side effects are of twice duration.
+
+''Addict Effects:'' When taken by someone addicted to tongue of madness, the duration of the initial effects are halved.
+
+''Addiction DC:'' 12
+
+''Addiction Dice:'' 3d4

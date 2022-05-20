@@ -1,0 +1,27 @@
+created: 20220518201850120
+creator: admin
+modified: 20220518203806415
+modifier: admin
+tags: Things
+title: Bloodflower Leaf
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Rare//
+
+"Bloodflower" is the common name for a tiny red flower that grows in warm, boggy regions. A sweet-tasting, pale elixir can be made from the petals of these flowers that is popular among warriors and athletes. In addition to being addictive in small doses, bloodflower can be taken in large amounts (i.e., deliberately overdosing) to produce dramatic, and dangerous, permanent changes to the users body.
+
+Whether the name comes from the deep red color of the flowers or from the war-like nature of those who abuse the drug is an open question.
+
+''Effects:''  Upon drinking a dose of bloodflower, the user experiences a rush of aggressive feelings. Even the slightest affronts or insults provoke DC 8 Constitution save. On a failure, the user must attack the offender. This lasts for a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Secondary Effects:''  Instead of making a movement on their turn, the user may focus their attention on a particular creature. If on their next turn the user attacks that creature, they have advantage on the attack. This ability lasts for a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier) after drinking bloodflower.
+
+''Side Effects'': Users of bloodflower bleed more freely than normal. For a number of minutes equal to 1d8 multiplied by (10 - the user's CON modifier).
+
+''Overdose Effects:'' Drinking bloodflower more than once in a 6 hour period prevents the secondary effects from taking place again for 12 hours. Additionally, the user must make a DC 15 Constitution saving throw. On a failure, the user's Strength increases by one, the user's Wisdom or Charisma (chosen at random) decreases by one, and the user acquires a level of exhaustion. If the user's Strength is already 20, it can still increase by means of drinking bloodflower but only to 22 and every point of increase comes with a decrease by 1 of BOTH Intelligence and Wisdom. Every time the user's Strength increases, there is a 1 in 4 chance that the aggression of the initial effects are permanent.
+
+''Addict Effects:'' When taken by someone who is addicted to blooddflower, the initial and secondary effects are of half duration and the DC to resist the overdose effect increases to 20.
+
+''Addiction DC:'' 15
+
+''Addiction Dice:'' 3d4

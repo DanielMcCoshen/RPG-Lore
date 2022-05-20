@@ -1,0 +1,31 @@
+created: 20220518220613200
+creator: admin
+modified: 20220518220907737
+modifier: admin
+tags: Things
+title: Haunspeir
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Inhaled, Common//
+
+Haunspeir is the generic name for a variety of similar tobacco-like products made from dried glassat leaves. Small differences exist amongst different haunspeir products but, they all have pretty much the same effects upon the user.
+
+Haunspeir smoking is currently on the rise in urban areas. Students are quite familiar with the drug as it is known to temporarily increase intelligence, memory, and concentration. Unfortunately, while most who try it just a few times never develop a dependency, those who do become addicted to haunspeir often find it very hard to stop smoking. Habitual smokers of haunspeir typically develop a nasty cough.
+
+Haunspeir has a 'secondhand smoke' effect, noted below.
+
+''Effects:'' The user gets a sore throat and an ugly cough. They take damage equal to 1d4 minus their Constitution modifier.
+
+''Secondary Effects:'' The user's Intelligence increases by 1d4+1 points for a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier). Additionally, any concentration checks made during that period are made with advantage.
+
+''Side Effects:'' Smokers of haunspeir frequently get the shakes. For a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier) after lighting up, the user takes a 1d4-1 penalty to Dexterity.
+
+''Secondhand Smoke Effects:'' Anyone within 20 feet of someone smoking devilweed must make a Constitution saving throw with advantage against the Addiction DC. On a failure, they experience the initial effects of the drug, but no other effects. This counts as re-exposure for former addicts.
+
+''Overdose Effects:''   Smoking haunspeir more than once in a 24 hour period causes the user to suffer both the initial effects and the side effects of the drug, but not the Intelligence bump.
+
+''Addict Effects:''  When taken by someone who is addicted to haunspeir, the secondary and side effects are of half duration.
+
+''Addiction DC:'' 10
+
+''Addiction Dice:'' 2d4

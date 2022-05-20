@@ -1,0 +1,33 @@
+created: 20220518205949483
+creator: admin
+modified: 20220518210458337
+modifier: admin
+tags: Things
+title: Devilweed
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Inhaled, Common//
+
+Devilweed is the generic name for a variety of similar tobacco-like products all derived from the wyssin plant. Small differences exist amongst different devilweed products, but they all have pretty much the same effects upon the user.
+
+Devilweed smoking is currently on the wane in urban areas but is smoked widely throughout rural areas, particularly farmlands, and among sailors.
+
+Habitual smokers of devilweed are easy to identify by the yellow staining of the drug's residue on their teeth and fingers.
+
+Devilweed has a 'secondhand smoke' effect, noted below.
+
+''Effects:'' he user's eyes briefly cloud over. For a number of rounds equal to 1d4 minus their Constitution modifier the user has disadvantage on all perception checks.
+
+''Secondary Effects:'' The user's Strength increases by 1d4+1 points for a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Side Effects:'' For a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier) after lighting up, the user takes a 1d4-1 penalty to Wisdom.
+
+''Secondhand Smoke Effects:'' Anyone within 20 feet of someone smoking devilweed must make a Constitution saving throw with advantage against the Addiction DC. On a failure, they experience the initial effects of the drug, but no other effects. This counts as re-exposure for former addicts.
+
+''Overdose Effects:''  Smoking devilweed more than once in a 24 hour period causes the user to suffer both the initital effects and the side effects of the drug, but not the Strength bump.
+
+''Addict Effects:'' When taken by someone who is addicted to devilweed, the secondary and side effects are of half duration.
+
+''Addiction DC:'' 12
+
+''Addiction Dice:'' 2d4

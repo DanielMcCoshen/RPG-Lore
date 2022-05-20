@@ -1,0 +1,26 @@
+created: 20220518214547241
+creator: admin
+modified: 20220518214713453
+modifier: admin
+tags: Things
+title: Fezrah
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Very Rare//
+
+This pitch-black fungus has numerous fuzzy white spots and produces an odor that is repulsive to any sort of arachnid. When these spore-filled spots are harvested, turned into a thick, chunky paste, and ingested, the user produces a scent that spiders cannot stand.
+
+
+''Effects:'' After eating a dose of fezrah, the user begins to emit a scent that spiders cannot bear. Any spider or spider-like creature (DM's discretion) within 30 feet of the user must make a DC 10 Constitution saving throw or frightened of the user. The fear effect lasts for a number of minutes equal to 1d8 multiplied by (10 minus the user's CON modifier).
+
+''Secondary Effects:'' The user's scent is off-putting to other creatures as well. For a number of minutes equal to 1d8 multiplied by (12 minus the user's CON modifier), they have disadvantage on all Charisma checks.
+
+''Side Effects:'' The user must succeed on a DC 12 Wisdom saving throw or become deeply paranoid, convinced their friends are conspiring against them. This lasts a period of minutes equal to 1d12 multiplied by (10 minus the user's CON score).
+
+''Overdose Effects:'' If more than one dose of fezrad is eaten in a 12 hour period the user must succeed on a DC 15 Constitution saving throw or take 2d6 poison damage and acquire the poisoned condition for 1d4+1 hours.
+
+''Addict Effects:'' When taken by someone who is addicted to fezrah, the DC to avoid paranoia increases to 15 and the initial effects are of half duration.
+
+''Addiction DC:'' 10
+
+''Addiction Dice:'' 2d4

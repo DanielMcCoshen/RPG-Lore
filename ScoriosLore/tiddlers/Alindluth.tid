@@ -1,0 +1,23 @@
+created: 20220518192900154
+creator: admin
+modified: 20220518203838518
+modifier: admin
+tags: Things
+title: Alindluth
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Rare//
+
+When ingested, alindluth deadens all pain and prevents shock and nausea effects for a few minutes. There are no known side effects, but if the substance is used too soon after first exposure (or in too large a dose; dosages vary by body volume and weight), it induces a short-duration coma.
+
+''Effects:''  A dose of alindluth renders the drinker numb to all pain. It takes 1d4+2 rounds to take effect. Thereafter, the drinker is numbed to all pain for a number of minutes equal to 1d8 multiplied by (10 minus the user's CON modifier). Under this effect, the user will not notice when they are wounded unless they make a DC 10 Intelligence check.
+
+''Side Effects:'' People tend to have violent reactions to the effects of alindluth wearing off. There is a 50 percent chance that for a number of rounds equal to 1d4 multiplied by (10 minus the user's CON modifier), the user will be overwhelmed with fury, attacking the first person they see.
+
+''Overdose Effects:'' If more than one dose of alindluth is taken within a 12 hour period, the drinker must make a DC 10 Constitution saving throw or fall into a comatose state for a number of minutes equal to 1d20 multiplied by (8 minus the user's CON modifier).
+
+''Addict Effects:'' When taken by someone who is addicted to alindluth, the duration of the initual effects and the chance of side effects occuring are both halved.
+
+''Addiction DC:'' 12
+
+''Addiction Dice:'' 3d4

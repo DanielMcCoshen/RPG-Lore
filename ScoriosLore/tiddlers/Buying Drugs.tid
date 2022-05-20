@@ -1,0 +1,32 @@
+created: 20220518190749224
+creator: admin
+modified: 20220518191622151
+modifier: admin
+tags: [[OOG Resources]]
+title: Buying Drugs
+type: text/vnd.tiddlywiki
+
+Typical street prices, based on rarity
+
+|!Rarity |!Price |
+|Basic |2v |
+|Common |15f |
+|Uncommon |90f |
+|Rare |400f |
+|Very Rare |1740f |
+
+However, buying things on the black market is often risky, so complecations are common. There is a base 10% chance of a complecation, modified by factors such as law enforcement presence, and co-operation with local underworld figures.
+
+|!d12 |!Drug Buying Complication |
+|1 |Drug is a harmless fake |
+|2 |Drug's been cut with laxative. Effects are half as strong and user gets diarrhea. |
+|3 |Drug's too old. One of the effects doesn't occur. |
+|4 |The dealer's under investigation by the authorities. Now the buyer is, too. |
+|5 |The dealer's an undercover officer of the law. |
+|6 |The dealer is killed by a rival. |
+|7 |Drug's way too strong. User overdoses. |
+|8 |The dealer tries to rob the buyer. |
+|9 |Contaminated. One effect is replaced another drug's. |
+|10 |User has the poisoned condition 1d4 hours. |
+|11 |Dealer tries to kill the buyer. |
+|12 |User must roll on the short-term madness table. |

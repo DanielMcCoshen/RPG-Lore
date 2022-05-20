@@ -1,0 +1,13 @@
+created: 20220518202449118
+creator: admin
+modified: 20220518203747423
+modifier: admin
+tags: Things
+title: Bloodstaunch
+type: text/vnd.tiddlywiki
+
+//Non-addictive substance, Injury, Basic//
+
+Found in dry gullies in semiarid temperate zones, this herb thickens blood very quickly upon direct contact, and so can be applied to open wounds to slow or stop bleeding.
+
+''Effects:''  When a medic succeeds in applying bloodstaunch to an open wound on a DC 10 Medicine check, immediately clots all blood flowing from it and closes the wound over in a thick scab. The wounded person is considered stabilized and has resistance to all nonmagical piercing damage for a number of rounds equal to 1d4 multiplied by (6 minus the user's CON modifier).

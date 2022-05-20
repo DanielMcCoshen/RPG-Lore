@@ -1,0 +1,29 @@
+created: 20220519154010191
+creator: admin
+modified: 20220519154158859
+modifier: admin
+tags: Things
+title: Sannish
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Rare//
+
+This is a thick, bluish liquid distilled from a concoction made of wolf's milk and the juice of a rare desert plant. At one point it was commonly used as a surgical anaesthetic but its medicinal uses are now minimal, as doctors have sought out less addictive treatments. Recreational users now make up the overwhelming majority of sannish consumption.
+
+Addicts can be easily recognized by the permanent blue stains on their lips., and perhaps in part because it is so easy to identify habitual users of sannish, the drug has a very negative stigma attached to it. Wealthy and noble sannish drinkers go to great lengths to hide or eliminate the staining, sometimes employing elaborate cosmetics or even minor illusion spells.
+
+''Effects:'' Sannish drinkers experience a rush of pleasurable fuzziness in their thinking as their cares melt away. For a number of rounds equal to 1d6 multiplied by (10 minus the user's CON modifier), the drinker has disadvantage on all Wisdom checks and saves.
+
+''Secondary Effects:'' Drinking sannish has a powerful anaesthetic effect. The drinker is numbed to all pain for a number of minutes equal to 2d4 multiplied by (10 minus the user's CON modifier). Under this effect, the user has advantage on all saving throws versus fear-based effects and will not notice when they are wounded unless they make a DC 10 Intelligence check.
+
+''Side Effects:'' The mental fuzziness sannish produces has the lingering effect of slowing the drinker's reflexes. For a number of minutes equal to 2d4 multiplied by (10 minus the user's CON modifier), the drinker has disadvantage on all Dexterity saving throws and all initiative rolls.
+
+''Overdose Effects:'' Taking sannish more than once in a 24 hour period provokes a DC 15 Consitution saving throw. On a success, the drinker experiences a euphoric condition that makes it difficult to make decisions or concentrate on anything. They have disadvantage on all Intelligence, Wisdom, and Charisma checks and saves and cannot cast spells of any kind.
+
+On a failure, the drinker goes into a numb stupor making it impossible to think straight. The user moves at half speed, has disadvantage on all rolls, and cannot take both an action and a bonus action on their turn. These overdose effects last for a number of hours equal to 2d6 multiplied by (10 minus the user's CON modifier). 
+
+''Addict Effects:''  When taken by someone who is addicted to sannish, the secondary effects are of half duration.
+
+''Addiction DC:'' 18
+
+''Addiction Dice:'' 4d4

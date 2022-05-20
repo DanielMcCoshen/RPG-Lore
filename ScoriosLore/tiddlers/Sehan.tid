@@ -1,0 +1,25 @@
+created: 20220519161740853
+creator: admin
+modified: 20220519162021472
+modifier: admin
+tags: Things
+title: Sehan
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Contact, Very Rare//
+
+The effects of Sehan are similar to [[Green Welcome]], but much more potent. Unlike the weaker drug that it is derived from, sehan can work through the skin, and need not be consumed, merely touched.
+
+''Effects:'' Anyone exposed to sehan must make a DC 18 Constitution saving throw. On a failure, they lose 1d6 points of Intelligence and 1d6 points of Wisdom. After a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier), the lost ability score points return at a rate of 1 point every 3 rounds. If an ability score drops below 3 due to the effects of sehan, there is a 50 percent chance that the points will not return on their own.
+
+''Secondary Effects:''  Sehan fills the user with a feeling of strength, contentment, and belonging. For a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier), the user's Strength and Charisma are temporarily enhanced by 1d4+1 points (to a maximum of 20). Additionally, the user believes they have succeeded on all saving throws.
+
+''Side Effects:'' or a number of hours equal to 1d4 multiplied by (8 minus the user's CON modifier), the user's sweat is thick and mucus-like. They overheat quickly, have a +1 bonus to their natural armor, and disadvantage on all persuasion checks.
+
+''Overdose Effects:''   Taking more than one dose of sehan within a 48 hour period increases the amount of Intelligence and Wisdom damage from 1d6 to 1d8 and doubles the duration of the side effects.
+
+''Addict Effects:'' When taken by someone who is addicted to sehan, there is a 50 percent chance that the enhancement bonus from the secondary effects will not occur and a 50 percent chance that the user will permanently believe that they have succeeded in all their saving throws
+
+''Addiction DC:'' 18
+
+''Addiction Dice:'' 2d4

@@ -1,0 +1,27 @@
+created: 20220518193759145
+creator: admin
+modified: 20220518203858534
+modifier: admin
+tags: Things
+title: Ætherdust
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Inhaled, Rare//
+
+Ætherdust is made from cacti found in the north of [[Akai|The Realm of Akai]]. It is a gray, fine-grained dust normally carried in small paper envelopes. It is often used in attempts to understand reality, as it allows users to see into the [[void|The Void]]
+
+It can temporarily blind and disable its users, and is thus popular with rogues and assassins who want a way to quickly discourage those who interfere with their work.
+
+Ætherdust can be used as a weapon by casting a pinch in an opponent's face. Treat this as an unarmed melee attack. If the attack is successful, the target must make their Constitution save or suffer the effects of the drug. If the attack misses, the dose dissipates harmlessly.
+
+''Effects:''  Upon inhaling a dose of ætherdust, the user experiences a rush of uncanny awareness as the scales of reality seem to fall from their eyes. For a number of rounds equal to 1d8 multiplied by (10 minues the user's CON modifier), the user can see into the void.
+
+''Side Effects:''  Inhaling ætherdust is also extremely stressful for one's body. The user must make a DC 15 Constitution save. On a failure, the user can see only the void and is blind to the material world, causing all the expected disasvantages. This lasts for a number of rounds equal to 1d10 multiplied by (10 minus the user's CON bonus).
+
+''Overdose Effects:'' Taking ætherdust more than once in a 6 hour period increases the saving throw DC to avoid the side effects to 20.
+
+''Addict Effects:'' When taken by someone who is addicted to ætherdust, the initial and secondary effects are of half duration.
+
+''Addiction DC:'' 10
+
+''Addiction Dice:'' 4d4

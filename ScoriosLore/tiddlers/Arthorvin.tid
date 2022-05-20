@@ -1,0 +1,30 @@
+created: 20220518200755717
+creator: admin
+modified: 20220518203829263
+modifier: admin
+tags: Things
+title: Arthorvin
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Rare//
+
+A fragrant gray powder made from rare magic plants, the drug called arthorvin is an appropriate alchemical treatment for anxiety, mood disorders, and dissociative disorders. When taken in large doses, it is likely to cause them.
+
+''Effects:''  Within 1d4+1 rounds of a person drinking a dose of arthorvin, the drinker loses 1d4+1 points of Charisma. This is restored after a long rest.
+
+''Secondary Effects:'' If the drinker is insane, arthorvin has a chance of curing or treating them. Arthorvin can cure short-term madness but can only treat long-term and indefinite madness. In those cases, the patient would have to be continually under the effect of the drug or the symptoms would return, but so long as they keep drinking it, they behave perfectly sanely. A dose of arthorvin wears off in a number of minutes equal to 2d20 multiplied by (12 minus the user's CON modifier).
+
+|!Madness Type |!Effect of Arthorvin |
+|Short-term |75% Chance of cure |
+|Long-term |50% Chance of suppressing symptoms |
+|Indefinite |10% Chance of suppressing symtoms |
+
+''Side Effects:''  Arthorvin produces a general dulling of the emotions and senses. Patients who take it often complain of feeling detached and distant from the world. For a number of hours equal to 1d4 multiplied by (10 minus the user's CON modifier), the drinker has disasvantage on all initiative rolls and Wisdom and Charisma checks.
+
+''Overdose Effects:'' If more than three doses of arthorvin are taken in a 24-hour period, the drinker must make a DC 12 Constitution saving throw or become mentally damaged. Treat as though the feeblemind spell had been cast on them. This lasts a period of hours equal to 1d4+1 multiplied by (10 minus the drinker's CON modifier).
+
+''Addict Effects:'' When taken by someone who is addicted to arthorvin, the duration of the side effects is doubled and the DC to avoid the overdose condition increases to 15.
+
+''Addiction DC:'' 12
+
+''Addiction Dice:'' 5d4

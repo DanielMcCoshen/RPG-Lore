@@ -1,0 +1,27 @@
+created: 20220519165837897
+creator: admin
+modified: 20220519173340912
+modifier: admin
+tags: Things
+title: Fae Dust
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Inhaled, Very Rare//
+
+'Fae dust' is the name for a dreadful concoction made from the extracted, dried, and ground, adrenal glands of a [[Fae]]. There is no way to harvest these glands without killing the fae in question, and the best quality fae brandy is harvested when the victim is in a state of abject terror. Because of this, terran brandy is viewed as an especially loathsome and evil substance. It is a highly potent, bright green, shimmering powder.
+
+Primarily consumed by evil spellcasters, fae brandy is highly illegal and its use is stigmatized and shameful in civilized parts. Few would ever openly admit to taking it.
+
+''Effects:'' The next (8 minus the user's CON modifier) spells that the user casts is cast as though it was one spell slot level higher. This effect wears off after 1 hour whether or not the user has cast any spells.
+
+''Secondary Effects:'' The user has the poisoned condition for a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier).
+
+''Side Effects:'' or a number of minutes equal to 1d6 multiplied by (10 minus the user's CON modifier), the user registers as fey for the detect evil and good spell.
+
+''Overdose Effects:''  If more than one dose is taken in an 8-hour period, the user's Constitution score is reduced by 1. This reduction is permanent and cannot be restored.
+
+''Addict Effects:'' When taken by someone who is addicted to fae dust, the secondary and side effects are of half duration and the number of spells that are affected by the initial effects is (6 minus the user's CON score).
+
+''Addiction DC:'' 15
+
+''Addiction Dice:'' 3d4

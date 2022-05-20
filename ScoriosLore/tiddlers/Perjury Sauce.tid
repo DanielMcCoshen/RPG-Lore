@@ -1,0 +1,21 @@
+created: 20220518233234859
+creator: admin
+modified: 20220518233406588
+modifier: admin
+tags: Things
+title: Perjury Sauce
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Rare//
+
+Perjury sauce is a deep orange syrup that is consumed either by the spoonful or served on food. It has a citrusy smell and taste, though strangely bitter, and sticks to the tongue and mouth, making it difficult to entirely swallow.
+
+''Effects:''  After taking perjury sauce, the drinker must succeed on a DC 10 Constitution saving throw or be poisoned for a number of minutes equal to 1d4 mutliplied by (10 minus the user's CON modifier).
+
+''Secondary Effects:'' The drinker must make a DC 15 Charisma saving throw. On a failure, they cannot knowingly speak the truth. This lasts a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Addict Effects:'' When taken by someone who is addicted to perjury sauce, the DCs for all the above saving throws increase by 2.
+
+''Addiction DC:'' 10
+
+''Addiction Dice:'' 3d4

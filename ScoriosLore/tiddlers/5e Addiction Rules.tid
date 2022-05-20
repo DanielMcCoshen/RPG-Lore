@@ -1,13 +1,13 @@
 created: 20220304180315702
 creator: admin
-modified: 20220304193418399
+modified: 20220518185937158
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Addiction Rules
 type: text/vnd.tiddlywiki
 
 !Addictive Substances
-After a creature ingests an addictive substance, they have to make an immediate Constitution saving throw or become addicted. The DC for this depends on the substance and is listed in the substance description.
+After a creature ingests an [[addictive substance|List of Drugs]], they have to make an immediate Constitution saving throw or become addicted. The DC for this depends on the substance and is listed in the substance description.
 
 If the creature succeeds in their saving throw, they are not addicted. The effects of the substance take place as stated in the description. They need to make the save again if they take the substance again.
 

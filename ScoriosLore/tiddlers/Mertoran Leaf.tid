@@ -1,0 +1,23 @@
+created: 20220518230626843
+creator: admin
+modified: 20220518230858999
+modifier: admin
+tags: Things
+title: Mertoran Leaf
+type: text/vnd.tiddlywiki
+
+//[[Addictive substance|5e Addiction Rules]], Ingested, Unommon//
+
+When mertoran leaf is dried, treated, and chewed, it provides appropriate alchemical treatment for personality disorders, and substance abuse disorders. While it is in itself slightly addictive, mertoran leaf is often used to help addicts get off harder drugs and ease various withdrawl symptoms.
+
+''Effects:'' The user takes 1 point of Dexterity damage and gains 1 point of Charisma. These adjustments last for a number of minutes equal to 1d4 multiplied by (10 minus the user's CON modifier).
+
+''Secondary Effects:'' Any one level of withdrawal that is accrued for a different drug turns into two levels of exhaustion instead. The withdrawal level must be earned within a number of hours equal to 1d4 multiplied by (10 minus the user's CON modifier) after the mertoran leaf was first ingested. Similarly, the user makes any saving throws against madness effects with advantage during this period.
+
+''Overdose Effects:''  Taking mertoran leaf more than once in an 8 hour period prevents the secondary effects from taking place again for 48 hours. Additionally, the user must make a DC 15 Constitution saving throw. On a failure, the user gains a level of exhaustion.
+
+''Addict Effects:''  When taken by someone who is addicted to mertoran leaf, the initial and secondary effects are of half duration.
+
+''Addiction DC:'' 8
+
+''Addiction Dice:''  5d4
