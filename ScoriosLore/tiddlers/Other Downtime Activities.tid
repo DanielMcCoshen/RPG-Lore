@@ -1,0 +1,55 @@
+created: 20220519225824165
+creator: admin
+modified: 20220519231720441
+modifier: admin
+tags: [[OOG Resources]]
+title: Other Downtime Activities
+type: text/vnd.tiddlywiki
+
+!Learning a New Proficiency
+Given enough free time and the services of an instructor or good friend, a character can learn a language or pick up proficiency with a tool.
+
+Training costs 5 gold per day spent, requiring different numbers of days depending on what the character is training in. The gold represents the costs of items needed to learn as well as any teaching costs along the way.
+
+!!Training Time
+|!Type |!Days Required |
+|Martial Weapon |80 - 4 * Int mod |
+|Exotic Weapon |150 - 10 * Int mod |
+|Skill Proficiency |100 - 5 * Int mod |
+|Tool or Lanuguage |40 - 2 * Int mod |
+
+!Relaxation
+Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don't want to make use of the downtime system.
+
+Relaxation requires 3 days of downtime as your character rests within their home for the week, getting a break from the stressful adventuring lifestyle. While relaxing, a character gains advantage on saving throws to recover from long-acting diseases and poisons.
+
+!Research
+Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
+
+Typically, a character needs access to a library or a sage to conduct research. Assuming such access is available, conducting research requires 5 downtime days of effort and at least 50 gp spent on materials, bribes, gifts, and other expenses.
+
+The character declares the focus of the research. A specific person, place, or thing. The character makes an Intelligence check with no assistance from abilities, features, magical or mundane items, or spells with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. Determine how much lore a character learns using the Research Outcomes table.
+
+!!Research Outcomes
+|!Check Total |!Outcome |
+|1-5 |No Effect |
+|6-10 |You learn one piece of lore |
+|11-20 |You learn two pieces of lore |
+|21+ |You learn three pieces of lore |
+
+Each piece of lore is the equivalent of one true statement about a person, place, or thing. Examples include knowledge of a creature's resistances, the password needed to enter a sealed dungeon level, the spells commonly prepared by an order of wizards, and so on.
+
+The DM decides what information you learn and to what degree.
+
+!Purchasing Rare Items
+Your character may, for some reason, be in need of an item they can't simply buy from a local store, and can't otherwise be found. Diamonds for resurrection, attachments for firearms, expensive teas, and so on.
+
+It takes time to find people willing to sell these items at the price you want. At the cost of 3 downtime days you can attempt a Charisma (Investigation) ability check to search for someone willing to sell you the item in question. Spell compontens worth more than 5f are a good example of something that might need to be aquired like this. The outcome of this attempt is determined by your roll result, detailed below. When you do find an item, you have 3 days to decide if you wish to purchase the item before the opportunity is lost.
+
+!!Search Results
+|!Result |!Outcome |
+|0-10 |You can not find anyone to sell you the item |
+|11-15 |You find the item at 300% cost |
+|16-20 |You find the item at 250% cost |
+|21-25 |You find the item at 200% cost |
+|26+ |You find the item at 150% cost |

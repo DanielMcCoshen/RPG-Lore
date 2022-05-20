@@ -1,0 +1,63 @@
+created: 20220519200155552
+creator: admin
+modified: 20220519223210321
+modifier: admin
+tags: [[OOG Resources]]
+title: Item Crafting
+type: text/vnd.tiddlywiki
+
+If you can’t afford or find the item you need, or wish to work for your living, you can attempt to craft items.
+
+!Mundane Items
+A character needs the appropriate tools for the item to be crafted, and raw materials worth half of the item's value. To determine how many days it takes to create an item, divide its cost by 50 and round up. Multiple characters can combine their efforts when doing so. Divide the time needed to create an item by the number of characters working on it. A character needs to be proficient with the tools needed to craft an item and have access to the appropriate equipment. What tool kit a mundane item requires to craft is up to discussion and is entirely contextual.
+
+!!Example Items
+|!Proficiency |!Items |
+|Herbalism kit |Potion of Healing, Poison (basic) |
+|Leatherworker's tools |Leather armour, boots |
+|Smith's tools |Armour, weapons |
+
+!Magic Items
+Creating a magic item requires more than just time, effort,and materials. It is a long-term process that involves tracking down rare materials and the knowledge needed to create the item. Spell scrolls are exceptions to the following rules. To find the number of days required to craft a magic item, divide the cost by 25 and round up
+
+!!Magic Item Ingredients
+These items are ambiguous, they could represent lost knowledge or rare magical herbs. They are specific to the magic item being created, and generally are not available for purchase, needing to be obtained from the feild or from others who might have aquired them.
+
+!!Magic Item Crafting Costs
+|!Rarity |!Cost |!Ingredients |
+|Common |50f |1 Ingredient |
+|Uncommon |75f |1 Ingredient |
+|Rare |150f |1 Ingredient |
+|Very Rare |400f |2 Ingredients |
+|Legendary |1300f |2 Ingredients |
+
+!Substances
+[[Substances|List of Drugs]] can be crafted in the same way as a magic item, with rare ingredients behaving the same way.
+
+!!Substance Crafting Costs
+|!Rarity |!Cost |!Ingredients |
+|Basic |1v |1 Ingredient |
+|Common |8f |1 Ingredient |
+|Uncommon |45f |1 Ingredient |
+|Rare |200f |1 Ingredient |
+|Very Rare |900f |2 Ingredients |
+
+!Scribing a Spell Scroll
+With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll. This activity represents the time and effort it takes to produce such an item
+
+Scribing a spell scroll takes time and money based on the level of the spell you wish to scribe, as shown in the Spell Scroll Costs table. You must also provide any material components required by the spell. Moreover, you must have the spell prepared or among your known spells in order to scribe a scroll of it. You must also have proficiency in the Arcana skill if you are a class that uses an arcane or druidic focus, or Religion if you are a class that uses a holy symbol to scribe the scroll.
+
+If you scribe a cantrip, the version on the scroll works as if the caster was 1st level.
+
+!!Spell Scroll Costs
+|!Level |!Cost |!Days Required |
+|Cantrip |2f |1 Day |
+|1st |5f |1 Day |
+|2nd |10f |2 Days |
+|3rd |20f |2 Days |
+|4th |40f |4 Days |
+|5th |80f |4 Days |
+|6th |160f |8 Days |
+|7th |320f |8 Days |
+|8th |640f |16 Days |
+|9th |1280f |32 Days |

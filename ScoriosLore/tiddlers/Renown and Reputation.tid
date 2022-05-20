@@ -1,0 +1,97 @@
+created: 20220519192938147
+creator: admin
+modified: 20220519233540443
+modifier: admin
+tags: [[OOG Resources]]
+title: Renown and Reputation
+type: text/vnd.tiddlywiki
+
+!Worldly Reputation
+As your character travels the world, meets new people, and experiences new things, they leave an impact on the world. A heroic savior of the people may change the lives of everyone they touch for the better, or a more greed driven vandal may do the opposite.
+
+Either way, the way people think of you will change over time, at a pace dependent on your own action as a player.
+
+!Renown and Fame
+As you complete games you will be rewarded with renown, either positive or negative. You keep track of both of these numbers seperately, though their combined total is just as important of a number as the individuals. You will earn positive renown for performing actions that gain you trust in the people who know your name, and you gain negative renown for doing the opposite.
+
+The total of both your positive and negative renown equals your total fame. Though, this can be infamy as well. People will treat you differently depending on how well they know you. How they treat you will be detailed later in this part.
+
+!!Renown
+|!Level of Fame |!Renown |
+|Unknown |0 |
+|Unsung |25 |
+|Recognized |50 |
+|Well-known |100 |
+|Famous |150 |
+|Celebrity |250 |
+|Legendary |500 |
+
+The renown you gain will be location dependant, with a specific number of regions that you can gain renown within. Having renown in these locations will change the way people treat you, for better or for worse. People remember what you did for or to them, but some acts may overshadow others. You never lose renown that you gain, but too much negative renown can completely overshadow the positive.
+
+!!Unknown
+Nobody knows who you are, and when people meet you for the first time the only thing they know about you is what you decide to tell or show them.
+
+!!Unsung
+A tiny number of people know who you are. The particularly well informed may recognize you for your deeds and treat you differently for it. People who specialize in the things your known for are the most likely.
+
+!!Recognized 
+A small number of people recognize you for your actions. You may be picked out in the streets of large cities, or find people in smaller towns who could pick you out from a crowd. Depending on what you're known for this may be good or bad, though.
+
+!!Well-known
+Those in circles close to or even adjacent to ones related to you know your name. It'll be hard to find a place where not a single person recognizes you. At this point you may have fans or a cult following, but at the same time you may have enemies or those who protest your presence. It depends really on what people know you for.
+
+!!Famous
+It's hard to really go anywhere without people knowing who you are anymore. You'll be stopped in the street or at gates, and even let into places you may not normally be allowed. Depending on your reputation this may mean different things. Criminal organizations may let you in to secret locations, the wealthy may lat you into private parties and events, or maybe you'll even be allowed in off limits areas during a criminal investigation.
+
+!!Celebrity
+In places that are civilized, and just about everywhere else, people know who you are. Your face represents what you do, be it a symbol of fear, peace, evil, or unity. This is the point where your fame has taken a life of its own. People treat you not just as a person but as something more. People who admired what you did don't just simply admire you are anymore, but they want to be like you. They mimic how you talk and how you act. The same is said for those who had it out for you.
+
+!!Legendary
+You are not just some name anymore, you're an icon. Armies begin to rise with or against you, and your voice alone is enough to influence an incredible amount of people. Your name will be permanently engraved in the history books. The things people believe you've done might not even be things you've done at this point, but your legend is no longer in your control. You've become as much a character to the world as you are a person. Many may not even believe you exist, and proving you are who you are may take some real demonstrations of skill.
+
+!Adoration and Fear
+longside your renown you have trust. You calculate how much a region trusts you by subtracting the lower of your two renown values form the higher. If your positive renown is higher the region trusts you, and if the negative renown is higher the region distrusts you.
+
+For example: If you had 78 positive renown, and 30 negative renown, you have a total of 48 trust in that region. The more trust/distrust you have, the better/worse people think of you. People will treat you differently depending on how much they do or do not trust you. How they treat you will be detailed later in this article.
+
+!!Reputation
+|!Public Image |Trust/Distrust |
+|Neutral |0 |
+|Trusted/Suspicious |25 |
+|Welcomed/Hated |50 |
+|Loved/Feared |100 |
+|Hero/Vilain |150 |
+|Blessing/Demon |250 |
+
+!!Neutral
+The people that know who you are have no strong feelings either way about you, and there opinions of you are yours to shape with your words and actions.
+
+!!Trusted
+Those who know your name are easier to get on the good side of. They've heard word of your good actions and that means it's easier for them to assume the better of you.
+
+!!Welcomed
+People are beginning to trust you more and more. Those who know you are quick to welcome you into their gatherings and cities. You'll be treated well by people who know you. They may even offer you places to stay or help you get off your feet if you're ever knocked down.
+
+!!Loved
+People are really starting to care about you. People know your name and people hold it close to their hearts. They have images of you that paint you in an incredible light, and you're really starting to win the people over.
+
+!!Hero 
+You are adored by the people who know your name. You're offered gifts, exemptions, and exceptions when people have the chance. Your actions have caused people to hold you above that of a normal person, and the way they treat you exemplifies that.
+
+!!Blessing
+You are in all ways revered by the people that know your name. Those who care for you hold you above all else, and many come close to even worshiping the ground you walk on. You're more than just peoples idol or savior. You're an incarnation of goodness.
+
+!!Suspicious
+Those who know your name are harder to get on the good side of. They've heard word of your evil actions and that means it's easier for them to assume the worst of you.
+
+!!Hated
+People are beginning to distrust you more and more. Those who know you are quick to ban you from their gatherings and cities. You'll be treated poorly by people who know you. They may even run you out of taverns or kick you when they see you down.
+
+!!Feared
+People are really starting to dislike you. People know your name and people keep you at arms reach because of it. They have images of you that paint you in an horrible light, and you're really starting to push the people away.
+
+!!Villain
+You are despised by the people who know your name. You're threatened when you approach those who know you, and even attacked when people have the chance or think they can win. Your actions have made you many enemies, and people know you as a source of hardship and terror.
+
+!!Demon
+You are in all ways feared and hated by the people that know your name. Those who hate you keep you below all else, and many come close to considering you a monster more than a man. You're more than just another enemy or villain. You're an incarnation of evil.

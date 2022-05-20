@@ -1,0 +1,327 @@
+created: 20220519204609267
+creator: admin
+modified: 20220519231843217
+modifier: admin
+tags: [[OOG Resources]]
+title: Player Housing
+type: text/vnd.tiddlywiki
+
+Your character may find it appropriate at some point time to own a home or property of some variety, be it a lair on the side of a mountain for your evil experiments, a cute cottage for you and your family, or a warehouse used for manufacturing the weapons you supply to your customers, the option is available to you. To own housing, you must first own land. Once you own land, you can realistically do whatever you would like with it, even if that's something simple as pitch a tent and start a campfire.
+
+!Purchasing Land
+To get started with owning a structure, you must purchase
+land first. Land costs vary depending on the location the land
+is bought in, and the economic state of said location.
+Land is purchased in acres, and is located in towns or
+cities. Depending on the economic quality of the land you
+purchase, it will have different amounts of access to services,
+upgrades, and hirelings. The monthly upkeep of land must be
+paid every month or the land becomes unusable.
+
+!!Land Costs
+Apply demand modifiers to the cost of land as appropriate.
+
+|!Land |!Monthly Upkeep |!Cost |
+|1 Acre, Squalid |12o |2z |
+|1 Acre, Poor |2z 10o |1f |
+|1 Acre, Modest |2v |1f 1v |
+|1 Acre, Comfortable |1f |10f |
+|1 Acre, Wealthy |2f |25f |
+|1 Acre, Aristocratic |4f |100f |
+|//Demand Modifiers// |<|<|
+|None |<|/4|
+|Low |<|/2|
+|High |<|*1.5 |
+|Soaring |<|*2 |
+
+!!Claiming Land
+Instead of purchasing land in a town traditionally, you can
+instead claim land in the wild. When you do this, it instead
+costs 1 gp per acre, and demand modifiers do not effect you.
+
+!Selling Housing
+When you sell houses you sell them for half of the price you
+purchased them. Add the price of all present upgrades to this price when
+determining the sell value.
+
+!Building Housing
+Once you've purchased your land, you may then build on that land. You build structures based on size, and that size then translates to a resource called 'room points'. Your building has a number of room points which are taken up when your structure is upgraded. You cannot upgrade a building if you do not have the required room points. Different housing sizes cost different amounts of acres. You cannot build more housing than you have acres of owned land. Once you build an upgrade, to remove it you must spend 500 gold. When you build housing, you must choose the owned location in which you build it. The price of different sizes of housing will be effected in different ways depending on the quality of the land, and the location it was built. It takes a number of days equal to the cost of a structure or upgrade divided by 50 to build.
+
+!!Housing Costs
+|!Structure Size |!Room Points |!Acre Requirement |!Construction Cost |
+|Small |1 |.5 |150f |
+|Medium |2 |1 |250f |
+|Large |4 |2 |400f |
+|Huge |8 |4 |650f |
+|Giant |16 |8 |1200f |
+|Colossus |32 |16 |2000f |
+
+!!Economic Modifiers & Upgrae Availability
+Depending on the quality of the land you are attempting to build in, it may cost different amounts to construct your home or your upgrades. These modifiers apply to both housing and constructed upgrades, following the chart shown below.
+
+Different upgrades will have different ranks, and depending on the rank the cost to construct will be modified. Each economic condition has a rank associated with it as shown in the chart below.
+
+Multiply an upgrades construction cost by X, where X is twice the number of ranks higher the upgrade is than the land it you are attempting to build it on.
+
+|!Economic Condition |!Cost Multiplier |!Upgrade Rank |
+|Wild |*2 |0 |
+|Squalid |*2 |1 |
+|Poor |*1 |2 |
+|Modest |*1 |3 |
+|Comfortable |*1 |4 |
+|Wealthy |*1 |5 |
+|Aristocratic |*1 |6 |
+
+!!Required Workforce
+Some house upgrades require a workforce of hirelings or assisting players.
+
+!Construction Options
+!!__Arcane Study__
+This contruction adds a place into your structure where
+magical experimentation and exploration can thrive.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 5
+
+''Construction Cost:'' 200f
+
+''Benefit:'' When crafting scrolls within an Arcane Study with the Scribing a Spell Scroll downtime activity, you are able to do so without wasting materials like what may have been necessary in a study without the delicate and expensive tools a place like this would be equipped with. The cost required to craft scrolls here is reduced by 50%, and you gain advantage on any checks made to copy spells into a ceremony, ritual, or spell book.
+
+!!__Community Center__
+This construction could be many things. A food bank, a recreational center, a fan club, and so on. The purpose of a community center is to put your name out there and bring you in good favor.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 3
+
+''Construction Cost:'' 100f
+
+''Benefit:'' At the end of every week you may must roll a d20. You gain a number of renown in the location the structure is built in dependent on the result shown by the chart below. 
+
+|!d20 |Renown Gained |
+|1-9 |1 Positive Renown |
+|10-14 |2 Positive Renown |
+|15-19 |4 Positive Renown |
+|20 |8 Positive Renown |
+
+!!__Crafting Workshop__
+This contruction adds the tools that you would normally need specialized facilities for to your home. These facilities vary depending entirely on the trade they were intended for.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 2
+
+''Construction Cost:'' 100f
+
+''Benefit:'' When you construct this upgrade you must choose one of the following subtypes shown below. The benefits gained from this upgrade are entirely depenent on said suptype and are detailed with it.
+
+!!!Factory
+When crafting an item, mundane or magical, with downtime and using this structure to do so, items made with Glassblower's Tools, Tinker's Tools, or Potter's Tools have the time required to craft the item reduced by 50%. The material requirements though are unchanged. Additionally, items crafted here have their hit points doubled and gain a +2 to their armor class.
+
+!!!Kitchen
+When crafting an item, mundane or magical, with downtime and using this structure to do so, items made with Brewer's Supplies or Cooks Utensils have the time required to craft the item reduced by 50%. The material requirements though
+are unchanged. Additionally, consumable items crafted here can be made compact and more efficiently, allowing these items, if consumable by using an action, instead also allow for the use of a bonus action to do so instead.
+
+!!!Laboratory
+When crafting an item, mundane or magical, with downtime and using this structure to do so, items made with Alchemist's Supplies, Herbalism Kits, Chemist's supplies, Doctor's tools, Pharmacist’s supplies, or a Poisoner's Kit have the time required to craft the item reduced by 90%. The material requirements though are unchanged.
+
+!!!Printer
+When crafting an item, mundane or magical, with downtime and using this structure to do so, items made with Calligrapher's Supplies, Cartographer's Tools, or Painters Supplies have the time required to craft the item reduced by 50%. The material requirements though are unchanged. Additionally, scrolls crafted here with the Scribing a Spell Scroll downtime activity have their required time to craft reduced by 80% so long as the crafter is proficient in either Calligrapher's Supplies, Cartographer's Tools, or Painters Supplies.
+
+!!!Smithy
+When crafting an item, mundane or magical, with downtime and using this structure to do so, items made with Gunsmithing Tools, Jeweler's Tools, or Smith's Tools have the time required to craft the item reduced by 50%. The material
+requirements though are unchanged.
+
+!!!Tannery
+When crafting an item, mundane or magical, with downtime and using this structure to do so, items made with Cobbler's Tools or Leatherworker's Tools have the time required to craft the item reduced by 50%. The material requirements though are unchanged.
+
+!!!
+When crafting an item, mundane or magical, with downtime and using this structure to do so, items made with Carpenter's Tools, Mason's Tools, Weaver's Tools, or Woodcarver's Tools have the time required to craft the item reduced by 50%. The material requirements though are unchanged. Additionally, when upgrading a dwelling with a Workshop upgrade already present, the cost to do so is reduced by 25%.
+
+!!__Creature Storage__
+This construction adds a safe and livable place to keep things that might want to leave, be it prisoners, captured beasts, or tamed mounts. From vast open enclosures, to small cramped and compact cells, there are many ways to keep a living creature under your control.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 3
+
+''Construction Cost:'' 100f
+
+''Benefit:'' When you construct this upgrade you must choose one of the following subtypes shown below. The benefits gained from this upgrade are entirely depenent on said suptype and are detailed with it.
+
+!!!Jails
+This storage location has the space, equipment, and supplies for up to ten medium sized creatures of a humanoid shape, be it devils, celestials, fey, etc. 
+
+The locks on this location are sturdy and reliable. To escape a creature must either succeed the DC 20 Strength check to break the lock, or the DC 25 thieves' tools check to pick it. This is only possible if the creature is not being monitored by a guard or hireling. 
+
+Creatures with special abilities that allow them to innately charm, teleport, or otherwise could escape in other ways, but it's assumed that creatures kept in a jail cannot cast spells, and do not have access to tools. Other specified precautions
+are up to the character.
+
+!!!Pens
+This storage location has the space, equipment, and supplies for many creatures depending on preference, which you decide when you construct this upgrade. You have 40 points to spend on different sized enclosures as detailed below. One enclosure can only ever contain one creature at a time. You can construct multiple pens at one time in the same location, and combine their points to create larger enclosures for larger creatures.
+
+!!!!Enclosure Costs
+|!Enclosure Size |!Point Cost |
+|Tiny |1 Point |
+|Small |4 Points |
+|Medium |8 Points |
+|Large |16 Points |
+|Huge |64 Points |
+|Gargantuan |256 Points |
+
+Unintelligent creatures held in these enclosures cannot
+escape, but intelligent creatures can leave with ease unless
+extra precautions are taken by the character.
+
+!!!Stables
+This storage location has the space, equipment, and supplies for up to 4 large sized creatures meant to be used as mounts. Horses, griffons, pegasi, axebeaks, etc. Mounts that reside within stables are usually happier, and a mount kept within a stable for more than a week with the supervision of a character with proficiency in animal handling gains one of the following benefits. These benefits are lost if the mount is removed from the stables for more than a week.
+
+''Well Disciplined.'' The mount gains a +1 to its armor class, and when a creature riding this mount rolls initiative they may choose to make the check at advantage.
+
+''Well Fed.'' The mounts maximum hit points are increased by twice it's CR, and it can travel for an additional hour without suffering the effects of forced march.
+
+''Well Rested.'' The mounts movement speed is increased by 10 feet, and it gains advantage on Constitution saving throws to avoid exhaustion.
+
+''Well Trained.'' The mount gains proficiency in athletics. If it already was proficient, in instead adds twice its proficiency bonus to ability checks using that skill.
+
+!!__Docks__
+The average adventurer does not have room to store particularly exotic vehicles, like boats or air ships. This construction adds the space required to store such vehicles.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:''2
+
+''Construction Cost:'' 50f
+
+''Benefit:'' When you construct this upgrade you must choose one of the following subtypes shown below. The benefit gained from this upgrade are entirely dependent on the subtype and are detailed with it.
+
+!!!Air
+You may store up to 2 air vehicles at an Air Dock. This dock can only be built above ground.
+
+!!!Water
+You may store up to 2 water vehicles with a Water Docks. This dock can only be built on a coast.
+
+!!__Garden__
+This construction adds the required tools and infrastructure needed to grow rare and exotic herbs and plants.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 4
+
+''Construction Cost:'' 100f
+
+''Benefit:'' At the end of every month this upgrade generates 3d10 points worth of consumable magic item or [[substance|List of Drugs]] ingredients, spendable at the costs shown below. Item ingredients can only be gained in this way if the item could be crafted with Alchemist's Supplies, an Herbalism kit, Chemist's supplies, Doctor's tools, Pharmacist’s supplies, or a Poisoner's Kit. Ingredients for Uncommon, Rare, Very Rare, and Legendary items and substances can only be produced this way if they have been obtained at least once elsewhere.
+
+!!!Garden Ingredient Costs
+|!Rarity |!Point Cost |
+|Basic |3 Points |
+|Common |6 Points |
+|Uncommon |10 Points |
+|Rare |20 Points |
+|Very Rare |40 Points|
+|Legendary |60 Points |
+
+If you have multiple Gardens in the same location, you may combine their points and spent them together, gaining access to rarer ingredients.
+
+!!__Lodgings__
+This construction adds the appropriate infrastructure and amenities for intelligent creatures to live here.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 2
+
+''Construction Cost:'' 50f
+
+''Benefit:'' This structure adds the space for up to 5 humanoid creatures to comfortably live in this location, and up to 10 if they're cramped and packed together. Creatures who complete long rests in this location gain all of their hit dice back rather than the half they would have originally. The first lodgings that you build in a location does not take up any of that structures room points.
+
+!!__Library__
+This construction adds a massive collection of well organized literature and documentation to your home.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 5
+
+''Construction Cost:'' 200f
+
+''Benefit:'' When researching within this structure using the [[Research downtime activity|Other Downtime Activities]], the gold cost is reduced by 50% of it's original cost. If you roll a 5 or lower on the Intelligence check, you may treat the roll as if the result was a 5.
+
+!!__Magical Enchanter__
+This construction impliments the rare, delicate, and expensive tools required to create magical items in a fast and efficient mannor.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 6
+
+''Construction Cost:'' 400f
+
+''Benefit:'' When crafting magical items in this location with
+the Magical Item Crafting downtime activity, the time
+required to do so is reduced by 75% of it's original time.
+
+!!__Recreational Facility__
+This construction can take on any form you desire. This could be a beautiful bathouse, a board game cafe, or a brothel.
+
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 4
+
+''Construction Cost:'' 100f
+
+''Benefit:'' When taking a break with the [[Relaxation downtime activity|Other Downtime Activities]], your maximum hit points increase by an amount equal to half of your level for 7 days.
+
+!!__Storefront__
+This contruction adds the storage and infrastructure necessary to run a retail establishment out of your structure. With all the tools needed to keep your stock safe and cutomers happy.
+''Size Cost:'' 1 Room Point
+
+''Upgrade Rank:'' 3
+
+''Construction Cost:'' 100f
+
+''Benefit:'' Every month this structure generates an amount of gold dependent on the goods being sold. A store owner must choose a supply contract when a store is built. A supply contract is signed with a supplier. Rarer contracts have a higher profit margin, but equally a higher chance for loss. Contracts signed with a supplier last untill the decided upon time runs out, and must still be payed even if the shop is closed for a month. After a contract expires, it can be swapped for a different one. If the store owner is going to be away from the store for a long period of time, someone must be watching the store for it to make money.
+
+!!!Storefront Income
+|!Contract Rank |!Examples |!Monthly Contract Cost |!Base Income |
+|Common |Alcohol and Refreshments Books and Maps, Flowers, Herbs, Furniture |26f |5d10f |
+|Uncommon |Animals, Livestock, Firearms, Weapons, Vehicles |32f |6d10f |
+|Rare |Jewlery, Gems, Spell Scrolls & Tomes |42f |8d10f |
+|Very Rare |Magical Creatures |58f |11d10f |
+|Legendary |Magic Armour, Magic Weapons, and Wondrous Items |80f |15d10f |
+
+Depending on how people view you, people may avoid or flock to your establishment. Your [[Renown and Reputation]] in the location will effect your monthly revenue, detailed below.
+
+Different contracts will attract different kinds of customers. Each contract will either be Savory, Unsavory, or Neutral. Discuss with Dan about which of these you want your shop to be. If you have a positive reputation in an area, your gold will be multiplied for savory businesses, and divided for unsavory businesses. The reverse goes for negative reputation.
+
+!!!Renown and Reputation Modifiers
+|!Public Image |!Modifier |
+|Neutral |* / 1 |
+|Trusted/Suspicious |* / 1.1 |
+|Welcomed/Hated |* / 1.25 |
+|Loved/Feared |* / 1.5 |
+|Hero/Villain |* / 2 |
+|Blessing/Demon |* / 2.5 |
+
+!!!Economic Modifiers
+|!Economic Condition |!Profit Multiplier |
+|Wild |*0.1 |
+|Squalid |*0.25 |
+|Poor |*0.5 |
+|Modest |*1 |
+|Comfortable |*1.1 |
+|Wealthy |*1.25 |
+|Aristocratic |*1.5 |
+
+!!__Temple__
+This construction adds a faithfully appropriate shrine, altar, or other object of worship in a sanctified room somewhere within the structures walls.
+
+''Size Cost:'' 1 Room point
+
+''Upgrade Rank:'' 3
+
+''Construction Cost:'' 200f
+
+''Benefit:'' When you construct this upgrade you must choose between consecration or desecration. The ground of the entire structure is considered to be one or the other so long as the worship center itself remains at least 51% unharmed. If you choose desecration, you and up to 4 others chosen upon the construction of this chamber become immune to the static bane spell that is applied by the desecration. Additionally, rolls for the cleric skill Divine Intervention can be rolled twice, allowing the lower to be taken.
+
+* Creatures with souls standing on consecrated land are considered to be under the effects of the bless spell, and creatures with souls standing on desecrated land are considered to be under the effects of the bane spell.
+* There is a 5% chance that a use of the Channel Divinity or Divine Intervention features wile standing on consecrated land doesn't expend any uses of the feature.
+* There is a 50% chance that an attempt to use the Channel Divinity or Divine Intervention features while standing on desecrated land fails.
