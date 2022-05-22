@@ -1,9 +1,34 @@
 created: 20220520194507398
 creator: admin
-modified: 20220520194953500
+modified: 20220520204841707
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Spell Component Costs
 type: text/vnd.tiddlywiki
 
 For any missed gold costs, divide by 10 to get foot cost. if it's not nice, round to the closest velik ig 15 gold, =  1foot 2velik
+
+|!Spell |!Component |!Cost |!Consumed? |!Source |
+| //1st Level// |<|<|<|<|
+|Identify |Pearl |10f |No |PHB |
+|Illusory Script |Lead-based ink |1f |Yes |PHB |
+| //2nd Level// |<|<|<|<|
+|Magic Mouth |Jade Dust |1f |Yes |PHB |
+| //3rd Level// |<|<|<|<|
+|Clairvoyance |Glass eye or jeweled horn |10f |No |PHB |
+|Glyph of Warding |Powdered diamond |20f |Yes |PHB |
+|Magic Circle |Holy water or powdered silver and iron |10f |Yes |PHB |
+|Nondetection |Diamond dust |1f 2v |Yes |PHB |
+| //4th Level// |<|<|<|<|
+| //5th Level// |<|<|<|<|
+|Awaken |Agate |100f |Yes |PHB |
+|Greater Restoration |Diamond Dust |10f |Yes |PHB |
+|^Legend Lore |Incense<br> Ivory, 4 strips |25f<br>5f ea. |Yes<br>No |PHB |
+|Planar Binding |Single Jewel |100f |Yes |PHB |
+|Raise Dead |Single Diamond |50f |Yes |PHB |
+|Scrying |Focus |100f |No |PHB |
+|Teleportation Circle |Rare chalks and inks |5f |Yes |PHB |
+| //6th Level// |<|<|<|<|
+| //7th Level// |<|<|<|<|
+| //8th Level// |<|<|<|<|
+| //9th Level// |<|<|<|<|
