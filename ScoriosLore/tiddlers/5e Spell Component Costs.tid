@@ -1,6 +1,6 @@
 created: 20220520194507398
 creator: admin
-modified: 20220520204841707
+modified: 20220524183137801
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Spell Component Costs
@@ -10,25 +10,92 @@ For any missed gold costs, divide by 10 to get foot cost. if it's not nice, roun
 
 |!Spell |!Component |!Cost |!Consumed? |!Source |
 | //1st Level// |<|<|<|<|
+|Ceremony |Powdered Silver |2f 2v |Yes |XGtE |
+|Chromatic Orb |Single Diamond |5f |No |PHB |
+|Find Familliar |Charcoal, Incense, Herbs |1f |Yes |PHB |
 |Identify |Pearl |10f |No |PHB |
 |Illusory Script |Lead-based ink |1f |Yes |PHB |
+|Protection from Evil and Good |Holy Water or Powdered Iron and Silver |1z |Yes |PHB |
+|^Snare |^Rope, 24ft |12o (hemp)<br>1v 1z (silk) |^Yes |^XGtE |
 | //2nd Level// |<|<|<|<|
+|Arcane Lock |Gold dust |2f 2v |Yes |PHB |
+|Augury |Sticks, bones, or other divination tokens |2f 2v |No |PHB |
+|Continual Flame |Ruby |5f |Yes |PHB |
 |Magic Mouth |Jade Dust |1f |Yes |PHB |
+|Shackles of Pain |A small silver chain |2v |No |Steampunk Compendium |
+|Summon Beast |Hollow gilded acorn |20f |No |TCoE |
+|Warding Bond |Pair of platnum rings |5f ea. |No |PHB |
 | //3rd Level// |<|<|<|<|
 |Clairvoyance |Glass eye or jeweled horn |10f |No |PHB |
 |Glyph of Warding |Powdered diamond |20f |Yes |PHB |
 |Magic Circle |Holy water or powdered silver and iron |10f |Yes |PHB |
 |Nondetection |Diamond dust |1f 2v |Yes |PHB |
+|Revivify |Diamonds (single or parcel) |30f |Yes |PHB |
+|Summon Fey |Gilded Flower |30f |No |TCoE |
+|Summon Lesser Demons |Vial of blood < 24hrs old (consumed if no circle of protection is made as part of this spell) |N/A |Special |XGtE |
+|Summon Shadowspawn |Tears in a crystal vial |30f |No |TCoE |
+|Summon Undead |Gilded Skull |30f |No |TCoE |
 | //4th Level// |<|<|<|<|
+|Divination |Incense and a sacrifical offering |2f 2v |Yes |PHB |
+|Secret Chest |Exquisite chest & small replica |500f & 5f |No |PHB |
+|Shadow of Moil |Undead Eyeball in a gem |15f |No |XGtE |
+|Stoneskin |Diamond dust |10f |Yes |PHB |
+|Summon Aberration |Platnum inlaid vial with tentacle and eyeball |40f |No |TCoE |
+|Summon Elemental |Crystal vial |40f |No |TCoE |
+|Summon Greater Demon |Vial of blood < 24hrs old (consumed if no circle of protection is made as part of this spell) |N/A |Special |XGtE |
+|Vortex |A single amethyst |20f |No |Steampunk Compendium |
 | //5th Level// |<|<|<|<|
 |Awaken |Agate |100f |Yes |PHB |
+|Dawn |Sunburst Pendant |10f |No |PHB |
 |Greater Restoration |Diamond Dust |10f |Yes |PHB |
-|^Legend Lore |Incense<br> Ivory, 4 strips |25f<br>5f ea. |Yes<br>No |PHB |
+|Hallow |Herbs, oils, and incense |100f |Yes |PHB |
+|Infernal Calling |Ruby |99f |No |XGtE |
+|^Legend Lore |Incense<br> Ivory, 4 strips |25f<br>5f ea. |Yes<br>No |^PHB |
 |Planar Binding |Single Jewel |100f |Yes |PHB |
 |Raise Dead |Single Diamond |50f |Yes |PHB |
+|Reincarnate |Rare oils and ointments |100f |Yes |PHB |
 |Scrying |Focus |100f |No |PHB |
+|Sight Line |A single ruby |10f |No |Steampunk Compendium |
+|Summon Celestial |Golden Reliquary |50f |No |TCoE |
 |Teleportation Circle |Rare chalks and inks |5f |Yes |PHB |
 | //6th Level// |<|<|<|<|
+|Circle of Death |Crushed black pearl powder |50f |No |PHB |
+|Contingency |Statuette of self, ivory and gems |150f |No |PHB |
+|Create Homunculus |Jewel-encrusted dagger |100f |No |XGtE |
+|Create Undead |1 black onyx for each corpse |15f ea. |No |PHB |
+|Druid Grove |Mistletoe harvested by golden sickle under light of full moon |Market Price |Yes |XGtE |
+|Find the Path |Divination Tools |10f |No |PHB|
+|Forbiddance |Holy water, rare incense, powdered ruby |100f |No |PHB |
+|Guards and Wards |Small Silver Rod |1f |No |PHB |
+|Heroes's Feast |Gem-encrusted specially crafted bowl |100f |Yes |PHB |
+|Instant Summons |Sapphire |100f |No |PHB |
+|Magic Jar |Gem, crystal, reliquary, etc. |50f |No |PHB |
+|Programmed Illusion |Jade Dust |2f 2v |No |PHB |
+|Soul Cage |Tiny Silver Cage |10f |No |XGtE |
+|Summon Fiend |Ruby Vial with humanoid blood |60f |No |TCoE |
+|Tasha’s Otherworldly Guise |Object ingraved with relevant planar symbol |50f |No |TCoE |
+|True Seeing |Ointment |2f 2v |Yes |PHB |
 | //7th Level// |<|<|<|<|
+|Averer's Awakening |A precious gem |500f |Yes |Steampunk Compendium |
+|Force Cage |Ruby Dust |150f |No |PHB |
+|Magnificent Mansion |Mini Ivory Portal, Pollished Marble, Tiny Silver Spoon |2v ea. |No |PHB |
+|Mordenkainen's Sword |a miniature Pt sword w/ a grip and pommel of Cu and Zn |25f |No |PHB |
+|Plane Shift |Forked metal rod attuned to destination plane |25f |No |PHB |
+|Project Image |Small replica of you |2v |No |PHB |
+|Ressurrection |Single Diamond |100f |Yes |PHB |
+|Sequester |Mixed powder (diamond, ruby, emerald, and sapphire) |500f |Yes |PHB |
+|Simulacrum |Powdered ruby |150f |Yes |PHB |
+|Symbol |Mixture(mercury, phosphorus, powdered diamond and opal) |100f |Yes |PHB |
 | //8th Level// |<|<|<|<|
+|^Clone |Urn, coffin, or simmilar<br> Single Diamond |200f<br>100f |No<br>Yes |^PHB |
+|Cryobomb |Silver Powder |3z |No |Steampunk Compendium |
+|Holy Aura |Reliquary (at cost) containing a sacred relic |100f |No |PHB |
+|Mighty Fortress |Single Diamond |50f |Yes |XGtE |
 | //9th Level// |<|<|<|<|
+|^Astral Projection |1 jacinth each target<br>1 ornately carved bar of silver each target |100f ea.<br>10f ea. |^Yes |PHB |
+|Gate |Single Diamond |500f |No |PHB |
+|Glassing Beam |A single emerald |500f |Yes |Steampunk Compendium |
+|Imprisonment |Statuette of target and special compnent |50f per hit die |Yes |PHB |
+|Invulnerability |Piece of adamantine |50f |Yes |PHB |
+|Shapechange |Jade Circlet |150f |No |PHB |
+|True Resurrection |Diamonds (single or parcel) |2500f |Yes |PHB |

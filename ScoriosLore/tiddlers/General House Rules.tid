@@ -1,6 +1,6 @@
 created: 20220521024506160
 creator: admin
-modified: 20220521042553208
+modified: 20220524170142662
 modifier: admin
 tags: [[OOG Resources]]
 title: General House Rules
@@ -8,3 +8,5 @@ type: text/vnd.tiddlywiki
 
 * Shields are always considered improvised weapons
 * Taking damage that would drop you to negative double your con score causes you to automatically fail your death saves
+* Planeshift and simmilar effects can still transport you to other planes, but be warned, most planes that are not the material plane are not conductive to supporting mortal life without serious preparation
+* Effects that refer to the "Astral Plane" instead refer to [[The Void]]
