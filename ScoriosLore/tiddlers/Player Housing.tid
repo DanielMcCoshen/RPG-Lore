@@ -1,6 +1,6 @@
 created: 20220519204609267
 creator: admin
-modified: 20220520194236899
+modified: 20220624043725226
 modifier: admin
 tags: [[OOG Resources]]
 title: Player Housing
@@ -35,17 +35,13 @@ Apply demand modifiers to the cost of land as appropriate.
 |Soaring |<|*2 |
 
 !!Claiming Land
-Instead of purchasing land in a town traditionally, you can
-instead claim land in the wild. When you do this, it instead
-costs 1 gp per acre, and demand modifiers do not effect you.
+Instead of purchasing land in a town traditionally, you can instead claim land in the wild. When you do this, it instead costs 1z per acre, and demand modifiers do not effect you.
 
 !Selling Housing
-When you sell houses you sell them for half of the price you
-purchased them. Add the price of all present upgrades to this price when
-determining the sell value.
+When you sell houses you sell them for half of the price you purchased them. Add the price of all present upgrades to this price when determining the sell value.
 
 !Building Housing
-Once you've purchased your land, you may then build on that land. You build structures based on size, and that size then translates to a resource called 'room points'. Your building has a number of room points which are taken up when your structure is upgraded. You cannot upgrade a building if you do not have the required room points. Different housing sizes cost different amounts of acres. You cannot build more housing than you have acres of owned land. Once you build an upgrade, to remove it you must spend 500 gold. When you build housing, you must choose the owned location in which you build it. The price of different sizes of housing will be effected in different ways depending on the quality of the land, and the location it was built. It takes a number of days equal to the cost of a structure or upgrade divided by 50 to build.
+Once you've purchased your land, you may then build on that land. You build structures based on size, and that size then translates to a resource called 'room points'. Your building has a number of room points which are taken up when your structure is upgraded. You cannot upgrade a building if you do not have the required room points. Different housing sizes cost different amounts of acres. You cannot build more housing than you have acres of owned land. Once you build an upgrade, to remove it you must spend 50 f. When you build housing, you must choose the owned location in which you build it. The price of different sizes of housing will be effected in different ways depending on the quality of the land, and the location it was built. It takes a number of days equal to the cost of a structure or upgrade divided by 50 to build.
 
 !!Housing Costs
 |!Structure Size |!Room Points |!Acre Requirement |!Construction Cost |
