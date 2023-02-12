@@ -1,6 +1,6 @@
 created: 20210416224331724
 creator: admin
-modified: 20220417100730949
+modified: 20230210183117929
 modifier: admin
 tags: [[OOG Resources]]
 title: 5e Adventuring Gear Costs
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 | Bolt, Balista, Flaming|1v (ea.) - 4f (dozen) |Captains and Cannons |
 | Bolt, Crossbow|1o (ea.) - 1z (20) |PHB |
 | Bullet, Sling|1h (5) - 1o (20) |PHB |
-| Bullet, Firearm|2z (ea.) - 1f (dozen) |Steampunk Compendium |
+| Bullet, Firearm|2z (ea.) - 1f (dozen) - 96f ([[can|Sealed Ammunition Can]]) |Steampunk Compendium |
 | Cannonball|2v (ea.) - 8f (dozen) |Captains and Cannons |
 | Chainshot|1v (ea.) - 4f (dozen) |Captains and Cannons |
 | Fuel, Dragon's Head|10f (ea) - 30f (3)|Captains and Cannons |
@@ -44,6 +44,7 @@ type: text/vnd.tiddlywiki
 |Bucket |1o |PHB |
 |Caltrop |1o ea. - 1z (20) |PHB |
 |Candle, tallow |1h |PHB |
+|[[Can Opener, Ammunition|Ammo Can Opener]] |10o |Dan's Homebrew |
 |Case, crossbow bolt |1z |PHB |
 |Case, map or scroll |1z |PHB |
 |Chain |12o/foot |PHB |
