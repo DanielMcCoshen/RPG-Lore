@@ -1,0 +1,20 @@
+created: 20230505160145557
+creator: admin
+modified: 20230505163806964
+modifier: admin
+tags: [[OOG Resources]]
+title: Resting Mechanics
+type: text/vnd.tiddlywiki
+
+!!NOTE: These mechanics are under development and may change
+
+!Taking a Rest
+While your caracters are away from an established communitysuch as a town or city, you will find getting a good night's sleep or short break from adventuring more difficlut than in a real bed.
+
+Upon taking a short or a long rest, a chacter must succeed at a save chosen by the GM against 10 + their proficency bonus or be forced to choose between downgraiding their rest or taking a level of exaustion. This DC goes up by 1 per consecutive rest taken outside of a community. When downgraded, an attempted long rest becomes a short rest, and an attempted short rest fails and grants no benifits to the character. Featrues that allow a character to not sleep, or to sleep less than ususal provide advantage on this check. These include but are not limited to Trance, Living Construct, and Aspect of the Moon.
+
+!Long Rest Accomidations
+While sleeping under the stars may seem like fun, it tends to be uncomfortable. Taking a long rest requires some of the creature comforts of home, or it becomes even more difficult. Characters must have bedding, shelter, and food, or the DC of the rest save goes up by 2 for each item they are missing from that list. Each of the items on the list may be remedied by seperate survival checks for hunting, finidng a cave, or soft moss to sleep on; bringing a tent, rations, and a bedroll with you; or through magical means such as Create Food and Water and Tiny Hut
+
+!!Background 
+Because I tend not to run as many crunchy encounters ad 5e wants, I was finding that the party was resting too much, so I decided to come up with a way to make it harder without being too punishing.
