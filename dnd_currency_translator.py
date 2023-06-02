@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+import re
 import sys
 import getopt
 
@@ -166,21 +167,31 @@ def normal_to_durekian(normal):
 
 def main(argv):
     in_type, out_type = process_args(argv)
+    coin_types = ("durekian", "standard")
+
+    if not in_type in coin_types:
+        print(f"Unrecognized input type: {in_type}. See  --help for more")
+        return
+    elif not out_type in coin_types:
+        print(f"Unrecognized output type: {out_type}. See  --help for more")
+        return
+
     for line in sys.stdin:
         normalized = 0
-        if in_type == "durekian":
-            normalized = normalize_durekian(line.strip().split(","))
-        elif in_type == "standard":
-            normalized = normalize_standard(line.strip().split(","))
-        else:
-            print(f"Unrecognized input type: {in_type}. See  --help for more")
+        coins = line.strip().split(",")
+        if not all([re.match(r"[0-9]+[pgescfvzokh]",coin) for coin in coins]):
+            print("Bad coin entry. See --help for more")
+            return
 
-        if out_type == "durekian":
+        if in_type == coin_types[0]:
+            normalized = normalize_durekian(line.strip().split(","))
+        elif in_type == coin_types[1]:
+            normalized = normalize_standard(line.strip().split(","))
+
+        if out_type == coin_types[0]:
             print(normal_to_durekian(normalized))
-        elif out_type == "standard":
+        elif out_type == coin_types[1]:
             print(normal_to_standard(normalized))
-        else:
-            print(f"Unrecognized output type: {out_type}. See  --help for more")
 
 
 if __name__ == "__main__":
